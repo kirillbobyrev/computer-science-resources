@@ -68,6 +68,8 @@ This collection is also inspired by (and to some degree based on)
     lectures + assignments
   - [ ] [Quarantine Database Talks](https://db.cs.cmu.edu/seminar2020/)
   - [ ] [Vaccination Database Talks](https://db.cs.cmu.edu/seminar2021/)
+- [ ] 📄 [A Case for Redundant Arrays of Inexpensive Disks
+  (RAID)](http://web.mit.edu/6.033/2015/wwwdocs/papers/Patterson88.pdf)
 - [ ] 📖 [Architecture of a Database
   System](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf) (2017)
 - [ ] 📖 [Readings in Database

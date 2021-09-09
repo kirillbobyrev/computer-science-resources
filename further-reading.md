@@ -55,7 +55,7 @@
 
 ### Lex Fridman
 
-- [ ] 🎙️ [David Patterson](https://youtu.be/naed4C4hfAg)
+- [x] 🎙️ [David Patterson](https://youtu.be/naed4C4hfAg)
 - [x] 🎙️ [Donald Knuth](https://youtu.be/2BdBfsXbST8)
 - [x] 🎙️ [Dmitri Dolgov](https://youtu.be/P6prRXkI5HM)
 - [ ] 🎙️ [David Silver](https://youtu.be/uPUEq8d73JI)
