@@ -197,7 +197,7 @@ This collection is also inspired by (and to some degree based on)
 - [ ] 🎥 [Distributed Systems lecture series from
   Cambridge](https://youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
   (shorter videos with the core concepts, 2020)
-- [ ] [Distributed Systems: Principles and
+- [ ] 📖 [Distributed Systems: Principles and
   Paradigms](https://www.goodreads.com/book/show/405614.Distributed_Systems)
   (Tanenbaum, 2006)
 - [ ] 📄 [The Byzantine Generals
