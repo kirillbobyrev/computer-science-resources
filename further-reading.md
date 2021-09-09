@@ -65,6 +65,7 @@
 - [ ] 🎙️ [Alex Filippenko](https://youtu.be/WxfA1OSev4c)
 - [ ] 🎙️ [Brian Kernighan](https://youtu.be/O9upVbGSBFo)
 - [ ] 🎙️ [Gilbert Strang](https://youtu.be/lEZPfmGCEk0)
+- [ ] 🎙️ [Peter Norvig](https://youtu.be/_VPxEcT_Adc)
 
 ## Miscellaneous
 

@@ -69,7 +69,7 @@ This collection is also inspired by (and to some degree based on)
   - [ ] [Quarantine Database Talks](https://db.cs.cmu.edu/seminar2020/)
   - [ ] [Vaccination Database Talks](https://db.cs.cmu.edu/seminar2021/)
 - [ ] 📄 [A Case for Redundant Arrays of Inexpensive Disks
-  (RAID)](http://web.mit.edu/6.033/2015/wwwdocs/papers/Patterson88.pdf)
+  (RAID)](http://web.mit.edu/6.033/2015/wwwdocs/papers/Patterson88.pdf) (1988)
 - [ ] 📖 [Architecture of a Database
   System](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf) (2017)
 - [ ] 📖 [Readings in Database
@@ -173,6 +173,9 @@ This collection is also inspired by (and to some degree based on)
 
 ## Machine Learning
 
+- [ ] 📖 [Artificial Intelligence: A Modern
+  Approach](https://www.goodreads.com/book/show/27543.Artificial_Intelligence)
+  (Russel, Norvig, 4th Edition 2021)
 - [ ] 📖 [Reinforcement Learning, an
   Introduction](https://www.goodreads.com/book/show/42601538-reinforcement-learning)
   (Richard Sutton, 2018)
@@ -194,6 +197,9 @@ This collection is also inspired by (and to some degree based on)
 - [ ] 🎥 [Distributed Systems lecture series from
   Cambridge](https://youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
   (shorter videos with the core concepts, 2020)
+- [ ] [Distributed Systems: Principles and
+  Paradigms](https://www.goodreads.com/book/show/405614.Distributed_Systems)
+  (Tanenbaum, 2006)
 - [ ] 📄 [The Byzantine Generals
   Problem](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Byzantine-Generals-Problem.pdf) (Lamport et al., 1982)
 - [ ] 📄 [The Part-Time
