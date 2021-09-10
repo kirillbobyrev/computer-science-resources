@@ -1,5 +1,10 @@
 # Further Reading
 
+[Competency
+Matrix](https://sijinjoseph.netlify.app/programmer-competency-matrix/) contains
+a good overview of what the good expertise in most areas of Software
+Engineering are.
+
 ## Algorithms and Data Structures
 
 - [ ] 🎥 [Graph Theory and Additive
