@@ -92,8 +92,6 @@ This collection is also inspired by (and to some degree based on)
 
 ## Databases
 
-- [ ] 📖 [Designing Data Intensive
-  Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) (2015)
 - [ ] 🎥 CMU's YouTube Channel
   - [ ] [Andy Pavlo's Intro to Database
     Systems](https://youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi),
@@ -103,6 +101,8 @@ This collection is also inspired by (and to some degree based on)
     lectures + assignments
   - [ ] [Quarantine Database Talks](https://db.cs.cmu.edu/seminar2020/)
   - [ ] [Vaccination Database Talks](https://db.cs.cmu.edu/seminar2021/)
+- [ ] 📖 [Designing Data Intensive
+  Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) (2015)
 - [ ] 📄 [A Case for Redundant Arrays of Inexpensive Disks
   (RAID)](http://web.mit.edu/6.033/2015/wwwdocs/papers/Patterson88.pdf) (1988)
 - [ ] 📖 [Architecture of a Database
@@ -159,6 +159,16 @@ This collection is also inspired by (and to some degree based on)
 
 ## Systems Programming (Operating Systems, Low-Level Primitives, Hardware)
 
+- [ ] 🎥 Onur Mutlu lectures
+  - [ ] [Digital Design and Computer
+    Architecture](https://youtube.com/playlist?list=PL5Q2soXY2Zi_FRrloMa2fUYWPGiZUBQo2)
+    ("How Computers Work from the ground up", ETH Zurich 2020)
+  - [ ] [Computer Architecture
+    lectures](https://youtube.com/playlist?list=PL5Q2soXY2Zi-DyoI3HbqcdtUm9YWRR_z-)
+    (ETH Zurich 2019)
+  - [ ] [Computer Architecture lectures
+    at](https://youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq)
+    (CMU 2015)
 - [ ] 📖 [Computer
   Architecture](https://www.goodreads.com/book/show/70135.Computer_Architecture)
   (Hennessy and Patterson, 2006)
@@ -175,16 +185,6 @@ This collection is also inspired by (and to some degree based on)
   - [ ] 📖 [The UNIX Programming
   Environment](https://www.goodreads.com/book/show/337338.The_UNIX_Programming_Environment)
   by Kernighan, Rob Pike
-- [ ] 🎥 Onur Mutlu lectures
-  - [ ] [Digital Design and Computer
-    Architecture](https://youtube.com/playlist?list=PL5Q2soXY2Zi_FRrloMa2fUYWPGiZUBQo2)
-    ("How Computers Work from the ground up", ETH Zurich 2020)
-  - [ ] [Computer Architecture
-    lectures](https://youtube.com/playlist?list=PL5Q2soXY2Zi-DyoI3HbqcdtUm9YWRR_z-)
-    (ETH Zurich 2019)
-  - [ ] [Computer Architecture lectures
-    at](https://youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq)
-    (CMU 2015)
 
 ### Compilers
 
@@ -208,6 +208,9 @@ This collection is also inspired by (and to some degree based on)
 
 ## Machine Learning
 
+- [ ] 🎥 [Natural Language
+  Processing](https://youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+  (Chris Manning at Stanford, 2019)
 - [ ] 📖 [Artificial Intelligence: A Modern
   Approach](https://www.goodreads.com/book/show/27543.Artificial_Intelligence)
   (Russel, Norvig, 4th Edition 2021)
@@ -225,9 +228,6 @@ This collection is also inspired by (and to some degree based on)
 - [ ] 📖 [Introduction to Information
   Retrieval](https://www.goodreads.com/book/show/3278309-introduction-to-information-retrieval)
   (Chris Manning, 2008)
-- [ ] 🎥 [Natural Language
-  Processing](https://youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
-  (Chris Manning at Stanford, 2019)
 
 ## Distributed Systems
 
@@ -259,6 +259,9 @@ This collection is also inspired by (and to some degree based on)
 
 ## Miscellaneous
 
+- [ ] 🎥 [Performance Engineering of Software
+  Systems](https://youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)
+  (MIT, 2018)
 - [ ] 📖 [Concrete Mathematics: A Foundation for Computer
   Science](https://www.goodreads.com/book/show/112243.Concrete_Mathematics)
   (Graham, Knuth, Patashnik, 1994)
@@ -277,9 +280,6 @@ This collection is also inspired by (and to some degree based on)
 - [ ] 📖 [How Google
   Works](https://www.goodreads.com/book/show/23158207-how-google-works) (Eric
   Schmidt, 2014)
-- [ ] 🎥 [Performance Engineering of Software
-  Systems](https://youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)
-  (MIT, 2018)
 - [ ] 📖 [The Pragmatic
   Programmer](https://www.goodreads.com/en/book/show/4099.The_Pragmatic_Programmer)
   (2019)
