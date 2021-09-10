@@ -63,6 +63,9 @@ This collection is also inspired by (and to some degree based on)
 - [ ] 🎥 [Distributed Systems lecture series from
   Cambridge](https://youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
   (shorter videos with the core concepts, 2020)
+- [ ] 📖 [Distributed Systems: Principles and
+  Paradigms](https://www.goodreads.com/book/show/405614.Distributed_Systems)
+  (Tanenbaum, 2006)
 - [ ] 📄 [The Anatomy of a Large-Scale Hypertextual Web Search
   Engine](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/334.pdf)
   ("The Google Paper", Brin, Page, 1998)
@@ -78,9 +81,6 @@ This collection is also inspired by (and to some degree based on)
 - [ ] 📄 [Dremel: Interactive Analysis of Web-Scale
   Datasets](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf)
   (2010)
-- [ ] 📖 [Distributed Systems: Principles and
-  Paradigms](https://www.goodreads.com/book/show/405614.Distributed_Systems)
-  (Tanenbaum, 2006)
 - [ ] 📄 [The Byzantine Generals
   Problem](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Byzantine-Generals-Problem.pdf) (Lamport et al., 1982)
 - [ ] 📄 [The Part-Time
@@ -103,13 +103,13 @@ This collection is also inspired by (and to some degree based on)
   - [ ] [Vaccination Database Talks](https://db.cs.cmu.edu/seminar2021/)
 - [ ] 📖 [Designing Data Intensive
   Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) (2015)
-- [ ] 📄 [A Case for Redundant Arrays of Inexpensive Disks
-  (RAID)](http://web.mit.edu/6.033/2015/wwwdocs/papers/Patterson88.pdf) (1988)
 - [ ] 📖 [Architecture of a Database
   System](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf) (2017)
 - [ ] 📖 [Readings in Database
   Systems](https://www.goodreads.com/book/show/1130477.Readings_in_Database_Systems)
   (_"The Red Book"_)
+- [ ] 📄 [A Case for Redundant Arrays of Inexpensive Disks
+  (RAID)](http://web.mit.edu/6.033/2015/wwwdocs/papers/Patterson88.pdf) (1988)
 - [ ] 📄 [Bigtable: A Distributed Storage System for Structured
   Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
   (_"The Bigtable Paper"_, 2006)
@@ -136,6 +136,9 @@ This collection is also inspired by (and to some degree based on)
     and C++14](https://www.goodreads.com/book/show/22800553-effective-modern-c)
   - [ ] [Effective STL: 50 Specific Ways to Improve Your Use of the Standard
     Template Library](https://www.goodreads.com/book/show/105124.Effective_STL)
+- [ ] 📖 [The C++ Programming
+  Language](https://www.goodreads.com/book/show/18224769-the-c-programming-language)
+  (Stroustrup, 2013)
 
 ### Functional Programming
 
@@ -182,7 +185,7 @@ This collection is also inspired by (and to some degree based on)
   Beginners](https://www.goodreads.com/book/show/25391593-reverse-engineering-for-beginners)
 - [ ] 📖 [The Little Book of
   Semaphores](https://www.goodreads.com/book/show/6965200-the-little-book-of-semaphores)
-  - [ ] 📖 [The UNIX Programming
+- [ ] 📖 [The UNIX Programming
   Environment](https://www.goodreads.com/book/show/337338.The_UNIX_Programming_Environment)
   by Kernighan, Rob Pike
 
@@ -241,7 +244,8 @@ This collection is also inspired by (and to some degree based on)
   Paradigms](https://www.goodreads.com/book/show/405614.Distributed_Systems)
   (Tanenbaum, 2006)
 - [ ] 📄 [The Byzantine Generals
-  Problem](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Byzantine-Generals-Problem.pdf) (Lamport et al., 1982)
+  Problem](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Byzantine-Generals-Problem.pdf)
+  (Lamport et al., 1982)
 - [ ] 📄 [The Part-Time
   Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf) ("The
   Paxos Paper", Lamport et al., 1998)
@@ -277,9 +281,6 @@ This collection is also inspired by (and to some degree based on)
   (2002)
 - [ ] 📖 [Quantum Computing for the Very Curious](https://quantum.country/qcvc)
   (2019)
-- [ ] 📖 [How Google
-  Works](https://www.goodreads.com/book/show/23158207-how-google-works) (Eric
-  Schmidt, 2014)
 - [ ] 📖 [The Pragmatic
   Programmer](https://www.goodreads.com/en/book/show/4099.The_Pragmatic_Programmer)
   (2019)

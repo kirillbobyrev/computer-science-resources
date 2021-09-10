@@ -121,10 +121,14 @@ Engineering are.
 
 - [ ] 🎥 [Computation
   Structures](https://youtube.com/playlist?list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2)
-- [ ] 🎥 [Combinatorics](https://youtube.com/playlist?list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2)
+- [ ] 🎥
+  [Combinatorics](https://youtube.com/playlist?list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2)
   (_in Russian_, MIPT, 2020)
 - [ ] 🎥 [YCombinator Startup School curriculum](https://www.startupschool.org)
   (MIT, Spring 2017)
+- [ ] 📖 [How Google
+  Works](https://www.goodreads.com/book/show/23158207-how-google-works) (Eric
+  Schmidt, 2014)
 - [ ] 📄 [What Every Computer Scientist Should. Know About Floating-Point
   Arithmetic](https://docs.oracle.com/cd/E19957-01/800-7895/800-7895.pdf)
   (Goldberg, 1991)
