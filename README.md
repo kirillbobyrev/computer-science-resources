@@ -55,6 +55,41 @@ This collection is also inspired by (and to some degree based on)
   translation of [e-maxx](http://e-maxx.ru/) (a Russian resource on Competitive
   Programming algorithms)
 
+## Distributed Systems
+
+- [ ] 🎥 [MIT Distribtued
+  Systems](https://youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
+  (2020)
+- [ ] 🎥 [Distributed Systems lecture series from
+  Cambridge](https://youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
+  (shorter videos with the core concepts, 2020)
+- [ ] 📄 [The Anatomy of a Large-Scale Hypertextual Web Search
+  Engine](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/334.pdf)
+  ("The Google Paper", Brin, Page, 1998)
+- [ ] 📄 [The Google
+  Filesystem](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
+  (2003)
+- [ ] 📄 [MapReduce: Simplified Data Processing on Large
+  Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
+  (Jeffrey Dean and Sanjay Ghemawat, 2004)
+- [ ] 📄 [The Chubby lock service for loosely-coupled distributed
+  systems](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)
+  (2006)
+- [ ] 📄 [Dremel: Interactive Analysis of Web-Scale
+  Datasets](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf)
+  (2010)
+- [ ] 📖 [Distributed Systems: Principles and
+  Paradigms](https://www.goodreads.com/book/show/405614.Distributed_Systems)
+  (Tanenbaum, 2006)
+- [ ] 📄 [The Byzantine Generals
+  Problem](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Byzantine-Generals-Problem.pdf) (Lamport et al., 1982)
+- [ ] 📄 [The Part-Time
+  Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf) ("The
+  Paxos Paper", Lamport et al., 1998)
+- [ ] 📄 [In Search of an Understandable Consensus
+  Algorithm](https://raft.github.io/raft.pdf) ("The Raft Paper", 2014)
+  - 🔗 [raft.gitghub.io](https://raft.github.io/raft.pdf)
+
 ## Databases
 
 - [ ] 📖 [Designing Data Intensive
@@ -122,7 +157,7 @@ This collection is also inspired by (and to some degree based on)
   Language](https://www.goodreads.com/book/show/25080953-the-go-programming-language)
   (2015)
 
-## Operating Systems, Hardware, Low-Level Primitives
+## Systems Programming (Operating Systems, Low-Level Primitives, Hardware)
 
 - [ ] 📖 [Computer
   Architecture](https://www.goodreads.com/book/show/70135.Computer_Architecture)
@@ -182,6 +217,11 @@ This collection is also inspired by (and to some degree based on)
 - [ ] 📖 [Deep
   Learning](https://www.goodreads.com/book/show/24072897-deep-learning) (Ian
   Goodfellow, Yoshua Bengio, 2016)
+- [ ] 📖 [Probabilistic Machine Learning: An
+  Introduction](https://probml.github.io/pml-book/book1.html) (Murphy, expected
+  2022)
+- [ ] 📖 [Probabilistic Machine Learning: Advanced
+  Topics](https://probml.github.io/pml-book/book2.html) (Murphy, expected 2022)
 - [ ] 📖 [Introduction to Information
   Retrieval](https://www.goodreads.com/book/show/3278309-introduction-to-information-retrieval)
   (Chris Manning, 2008)
@@ -208,6 +248,14 @@ This collection is also inspired by (and to some degree based on)
 - [ ] 📄 [In Search of an Understandable Consensus
   Algorithm](https://raft.github.io/raft.pdf) ("The Raft Paper", 2014)
   - 🔗 [raft.gitghub.io](https://raft.github.io/raft.pdf)
+- [ ] 📄 [The Google
+  Filesystem](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
+  (2003)
+- [ ] 📄 [MapReduce: Simplified Data Processing on Large
+  Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
+  (Jeffrey Dean and Sanjay Ghemawat, 2004)
+- [ ] 📄 [The Anatomy of a Large-Scale Hypertextual Web Search
+  Engine](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/334.pdf)
 
 ## Miscellaneous
 
