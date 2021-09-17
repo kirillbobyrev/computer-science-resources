@@ -7,13 +7,8 @@ Engineering are.
 
 ## Algorithms and Data Structures
 
-- [ ] 🎥 Algorithms and Data Structures courses at IFMO (in Russian)
-  - [ ] [Semester
-    I](https://youtube.com/playlist?list=PLrS21S1jm43jtiCPtU2xu8v8NQcbFRVX4)
-    (2021)
-  - [ ] [Semester
-    III](https://youtube.com/playlist?list=PLrS21S1jm43gpHkErn2Ecel6dvio5e6EO)
-    (2021)
+- [ ] 🎥 [Algorithms and Data Structures courses at
+  IFMO](https://youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4)
 - [ ] 🎥 [Graph Theory and Additive
   Combinatorics](https://youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX)
 - [ ] 📖 [Competitive Programmer's
@@ -27,25 +22,9 @@ Engineering are.
 
 ## Systems Programming (Operating Systems, Low-Level Primitives, Hardware)
 
-- [ ] 🔗 What every programmer should know about memory (LWN post series, 2007)
-  - [ ] [Part 1: Introduction](https://lwn.net/Articles/250967)
-  - [ ] [Part 2: CPU Caches](https://lwn.net/Articles/252125)
-  - [ ] [Part 3: Virtual Memory](https://lwn.net/Articles/253361)
-  - [ ] [Part 4: NUMA Support](https://lwn.net/Articles/254445)
-  - [ ] [Part 5: What programmers can do - cache
-    optimization](https://lwn.net/Articles/255364)
-  - [ ] [Part 6: What programmers can do - multi-threaded
-    optimizations](https://lwn.net/Articles/256433)
-  - [ ] [Part 7: Memory performance tools](https://lwn.net/Articles/257209)
-  - [ ] [Part 8: Future technologies](https://lwn.net/Articles/258154)
-  - [ ] [Part 9: Appendices and bibliography](https://lwn.net/Articles/258188/)
-- [ ] 🔗 What Every C Programmer Should Know About Undefined Behavior
-  - [ ] [Part
-    1](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html)
-  - [ ] [Part
-    2](https://blog.llvm.org/2011/05/what-every-c-programmer-should-know_14.html)
-  - [ ] [Part
-    3](https://blog.llvm.org/2011/05/what-every-c-programmer-should-know_21.html)
+- [ ] 📄 [What every programmer should know about
+  memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) (Paper
+  and [LWN post series](https://lwn.net/Articles/250967), 2007)
 - [ ] 🔗 [Computer Networking Introduction - Ethernet and IP (Heavily
   Illustrated)](https://iximiuz.com/en/posts/computer-networking-101/)
 - [ ] 🔗 [Writing an OS in Rust](https://os.phil-opp.com/)
@@ -55,6 +34,9 @@ Engineering are.
 - [ ] 📄 [Chord: A Scalable Peer-to-peer Lookup Service for Internet
   Applications](https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf)
   (2001)
+- [ ] 📄 [Spanner, TrueTime & The CAP
+  Theorem](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45855.pdf)
+  (2017)
 - [ ] 🔗 [Designs, Lessons and Advice from Building Large Distributed
   Systems](https://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf)
   (Jeffrey Dean, 2009)
@@ -94,10 +76,10 @@ Engineering are.
   Learning environment
   - 🔗 [github.com/highway-env](https://github.com/eleurent/highway-env)
 - 🔗 Waymo Blog
-  - [ ] [Simulation City: Introducing Waymo's most advanced simulation system
+  - [ ] 🔗 [Simulation City: Introducing Waymo's most advanced simulation system
   yet for autonomous
   driving](https://blog.waymo.com/2021/06/SimulationCity.html)
-  - [ ] [VectorNet: Predicting behavior to help the Waymo Driver make better
+  - [ ] 🔗 [VectorNet: Predicting behavior to help the Waymo Driver make better
   decisions](https://blog.waymo.com/2020/05/vectornet.html)
 
 ## Podcasts
@@ -106,7 +88,7 @@ Engineering are.
 
 - [x] 🎙️ [David Patterson](https://youtu.be/naed4C4hfAg)
 - [x] 🎙️ [Donald Knuth](https://youtu.be/2BdBfsXbST8)
-- [ ] 🎙️ [Donald Knuth #2](https://youtu.be/EE1R8FYUJm0)
+- [x] 🎙️ [Donald Knuth #2](https://youtu.be/EE1R8FYUJm0)
 - [x] 🎙️ [Dmitri Dolgov](https://youtu.be/P6prRXkI5HM)
 - [ ] 🎙️ [David Silver](https://youtu.be/uPUEq8d73JI)
 - [ ] 🎙️ [Andrew Huberman](https://youtu.be/Ktj050DxG7Q)
@@ -126,6 +108,9 @@ Engineering are.
   (_in Russian_, MIPT, 2020)
 - [ ] 🎥 [YCombinator Startup School curriculum](https://www.startupschool.org)
   (MIT, Spring 2017)
+- [ ] 📖 [Literate
+  Programming](http://www.literateprogramming.com/knuthweb.pdf) (Knuth, 1984)
+  - 🔗 http://www.literateprogramming.com
 - [ ] 📖 [How Google
   Works](https://www.goodreads.com/book/show/23158207-how-google-works) (Eric
   Schmidt, 2014)
@@ -137,3 +122,4 @@ Engineering are.
 - [ ] 🔗 [The Absolute Minimum Every Software Developer Absolutely, Positively
   Must Know About Unicode and Character Sets (No
   Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
+  (2013)

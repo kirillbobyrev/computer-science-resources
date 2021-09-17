@@ -84,8 +84,8 @@ This collection is also inspired by (and to some degree based on)
 - [ ] 📄 [The Byzantine Generals
   Problem](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Byzantine-Generals-Problem.pdf) (Lamport et al., 1982)
 - [ ] 📄 [The Part-Time
-  Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf) ("The
-  Paxos Paper", Lamport et al., 1998)
+  Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf) (_"The
+  Paxos Paper"_, Lamport et al., 1998)
 - [ ] 📄 [In Search of an Understandable Consensus
   Algorithm](https://raft.github.io/raft.pdf) ("The Raft Paper", 2014)
   - 🔗 [raft.gitghub.io](https://raft.github.io/raft.pdf)
@@ -95,12 +95,14 @@ This collection is also inspired by (and to some degree based on)
 - [ ] 🎥 CMU's YouTube Channel
   - [ ] [Andy Pavlo's Intro to Database
     Systems](https://youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi),
-    lectures + assignments
+    (2019, lectures + assignments)
   - [ ] [Andy Pavlo's Advanced Database
-    Systems](https://youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O),
-    lectures + assignments
-  - [ ] [Quarantine Database Talks](https://db.cs.cmu.edu/seminar2020/)
-  - [ ] [Vaccination Database Talks](https://db.cs.cmu.edu/seminar2021/)
+    Systems](https://youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
+    (2020, lectures + assignments)
+  - [ ] [Quarantine Database Talks](https://db.cs.cmu.edu/seminar2020/) (2020)
+  - [ ] [Vaccination Database Talks](https://db.cs.cmu.edu/seminar2021/) (2021)
+  - [ ] [Vaccination Database Talks: Second
+    Dose](https://db.cs.cmu.edu/seminar2021-dose2/) (2021)
 - [ ] 📖 [Designing Data Intensive
   Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) (2015)
 - [ ] 📖 [Architecture of a Database
@@ -109,16 +111,14 @@ This collection is also inspired by (and to some degree based on)
   Systems](https://www.goodreads.com/book/show/1130477.Readings_in_Database_Systems)
   (_"The Red Book"_)
 - [ ] 📄 [A Case for Redundant Arrays of Inexpensive Disks
-  (RAID)](http://web.mit.edu/6.033/2015/wwwdocs/papers/Patterson88.pdf) (1988)
+  (RAID)](http://web.mit.edu/6.033/2015/wwwdocs/papers/Patterson88.pdf)
+  (Patterson, 1988)
 - [ ] 📄 [Bigtable: A Distributed Storage System for Structured
   Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
   (_"The Bigtable Paper"_, 2006)
 - [ ] 📄 [Spanner: Google's Globally-Distributed
   Database](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/39966.pdf)
-  (2012) _"The Spanner paper"_
-- [ ] 📄 [Spanner, TrueTime & The CAP
-  Theorem](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45855.pdf)
-  (2017)
+  (_"The Spanner Paper"_, 2012)
 - [ ] 📄 [F1: A Distributed SQL Database That
   Scales](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41344.pdf)
   (_"The F1 paper"_, 2013)
@@ -127,14 +127,14 @@ This collection is also inspired by (and to some degree based on)
 
 ### C++
 
-- 📖 Effective C++ series by Scott Meyers
-  - [ ] [Effective
+- [ ] 📖 Effective C++ series by Scott Meyers
+  - [ ] 📖 [Effective
     C++](https://www.goodreads.com/book/show/105125.Effective_C_)
-  - [ ] [More Effective
+  - [ ] 📖 [More Effective
     C++](https://www.goodreads.com/book/show/105123.More_Effective_C_)
-  - [ ] [Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11
+  - [ ] 📖 [Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11
     and C++14](https://www.goodreads.com/book/show/22800553-effective-modern-c)
-  - [ ] [Effective STL: 50 Specific Ways to Improve Your Use of the Standard
+  - [ ] 📖 [Effective STL: 50 Specific Ways to Improve Your Use of the Standard
     Template Library](https://www.goodreads.com/book/show/105124.Effective_STL)
 - [ ] 📖 [The C++ Programming
   Language](https://www.goodreads.com/book/show/18224769-the-c-programming-language)
@@ -152,7 +152,7 @@ This collection is also inspired by (and to some degree based on)
 ### Rust
 
 - [ ] 📖 [The Rust Programming Language](https://doc.rust-lang.org/book/)
-  &mdash; an official Rust introduction book
+  &mdash; the official Rust introduction book
 
 ### Go
 
@@ -249,6 +249,13 @@ This collection is also inspired by (and to some degree based on)
 - [ ] 📄 [The Part-Time
   Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf) ("The
   Paxos Paper", Lamport et al., 1998)
+- [ ] 📄 [Brewer's conjecture and the feasibility of consistent, available,
+  partition-tolerant web
+  services](https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf)
+  (_"The CAP Theorem"_ proof, 2002)
+  - [ ] 📄 [CAP Twelve Years Later: How the "Rules" Have
+    Changed](https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf)
+    (2012)
 - [ ] 📄 [In Search of an Understandable Consensus
   Algorithm](https://raft.github.io/raft.pdf) ("The Raft Paper", 2014)
   - 🔗 [raft.gitghub.io](https://raft.github.io/raft.pdf)
