@@ -9,8 +9,10 @@ Engineering are.
 
 - [ ] 🎥 [Algorithms and Data Structures courses at
   IFMO](https://youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4)
+  (2020-2021)
 - [ ] 🎥 [Graph Theory and Additive
   Combinatorics](https://youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX)
+  (2019)
 - [ ] 📄 [R-trees: a dynamic index structure for spatial
   searching](http://www-db.deis.unibo.it/courses/SI-LS/papers/Gut84.pdf) (1984)
 
@@ -26,6 +28,8 @@ Engineering are.
   Templates)](https://codeforces.com/blog/entry/95106)
 - [ ] 🔗 [I compiled a list of almost all useful blogs ever published on
   Codeforces](https://codeforces.com/blog/entry/91363)
+- [ ] 🔗 [Geeks for Geeks large algprithm
+  list](https://www.geeksforgeeks.org/fundamentals-of-algorithms)
 
 ## Systems Programming (Operating Systems, Low-Level Primitives, Hardware)
 
@@ -105,11 +109,9 @@ Engineering are.
 - [x] 🎙️ [Donald Knuth #2](https://youtu.be/EE1R8FYUJm0)
 - [x] 🎙️ [Dmitri Dolgov](https://youtu.be/P6prRXkI5HM)
 - [ ] 🎙️ [David Silver](https://youtu.be/uPUEq8d73JI)
-- [ ] 🎙️ [Andrew Huberman](https://youtu.be/Ktj050DxG7Q)
 - [ ] 🎙️ [Cris Lattner #1](https://www.youtube.com/watch?v=yCd3CzGSte8)
 - [ ] 🎙️ [Cris Lattner #2](https://youtu.be/nWTvXbQHwWs)
-- [ ] 🎙️ [Alex Filippenko](https://youtu.be/WxfA1OSev4c)
-- [ ] 🎙️ [Brian Kernighan](https://youtu.be/O9upVbGSBFo)
+- [x] 🎙️ [Brian Kernighan](https://youtu.be/O9upVbGSBFo)
 - [ ] 🎙️ [Gilbert Strang](https://youtu.be/lEZPfmGCEk0)
 - [x] 🎙️ [Peter Norvig](https://youtu.be/_VPxEcT_Adc)
 
