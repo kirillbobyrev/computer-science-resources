@@ -59,7 +59,8 @@ This collection is also inspired by (and to some degree based on)
 
 - [ ] 🎥 [MIT Distribtued
   Systems](https://youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
-  (2020)
+  (2020, +[2021 Sprnig](https://pdos.csail.mit.edu/6.824/schedule.html)
+  offering)
 - [ ] 🎥 [Distributed Systems lecture series from
   Cambridge](https://youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
   (shorter videos with the core concepts, 2020)
