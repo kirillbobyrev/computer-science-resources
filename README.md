@@ -143,9 +143,8 @@ This collection is also inspired by (and to some degree based on)
 
 ### Functional Programming
 
-- [ ] 📖 [Learn You a Haskell For Great
-  Good](https://www.goodreads.com/book/show/6593810-learn-you-a-haskell-for-great-good)
-  (2011)
+- [ ] 📖 [Haskell Programming from first principles](https://haskellbook.com)
+  (2018)
 - [ ] 📖 [Category Theory for
   Programmers](https://www.goodreads.com/book/show/33618151-category-theory-for-programmers)
   (2018)
@@ -173,6 +172,8 @@ This collection is also inspired by (and to some degree based on)
   - [ ] [Computer Architecture lectures
     at](https://youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq)
     (CMU 2015)
+- [ ] 🎥 [MIT's Operating System
+  Engineering](https://pdos.csail.mit.edu/6.S081/2021/schedule.html)
 - [ ] 📖 [Computer
   Architecture](https://www.goodreads.com/book/show/70135.Computer_Architecture)
   (Hennessy and Patterson, 2006)
@@ -279,8 +280,6 @@ This collection is also inspired by (and to some degree based on)
   (Graham, Knuth, Patashnik, 1994)
 - [ ] 📖 [Code
   Complete](https://www.goodreads.com/book/show/21899045-code-complete) (2004)
-- [ ] 📖 [Clean Code: A Handbook of Agile Software
-  Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code) (2008)
 - [ ] 📖 [Domain-Driven
   Design](https://www.goodreads.com/book/show/179133.Domain_Driven_Design)
   (2003)
@@ -289,6 +288,6 @@ This collection is also inspired by (and to some degree based on)
   (2002)
 - [ ] 📖 [Quantum Computing for the Very Curious](https://quantum.country/qcvc)
   (2019)
-- [ ] 📖 [The Pragmatic
+- [x] 📖 [The Pragmatic
   Programmer](https://www.goodreads.com/en/book/show/4099.The_Pragmatic_Programmer)
   (2019)

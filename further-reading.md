@@ -16,8 +16,8 @@ Engineering are.
 - [ ] 📄 [R-trees: a dynamic index structure for spatial
   searching](http://www-db.deis.unibo.it/courses/SI-LS/papers/Gut84.pdf) (1984)
 
-
 ### Competitive Programming
+
 - [ ] 📖 [Competitive Programmer's
   Handbook](https://www.goodreads.com/book/show/34861344-competitive-programmer-s-handbook)
 - [ ] 🔗 [NEERC IFMO
@@ -126,10 +126,7 @@ Engineering are.
   (MIT, Spring 2017)
 - [ ] 📖 [Literate
   Programming](http://www.literateprogramming.com/knuthweb.pdf) (Knuth, 1984)
-  - 🔗 http://www.literateprogramming.com
-- [ ] 📖 [How Google
-  Works](https://www.goodreads.com/book/show/23158207-how-google-works) (Eric
-  Schmidt, 2014)
+  - 🔗 [literateprogramming.com](http://www.literateprogramming.com)
 - [ ] 📄 [What Every Computer Scientist Should. Know About Floating-Point
   Arithmetic](https://docs.oracle.com/cd/E19957-01/800-7895/800-7895.pdf)
   (Goldberg, 1991)
