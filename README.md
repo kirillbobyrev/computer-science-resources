@@ -269,6 +269,7 @@ This collection is also inspired by (and to some degree based on)
   (Jeffrey Dean and Sanjay Ghemawat, 2004)
 - [ ] 📄 [The Anatomy of a Large-Scale Hypertextual Web Search
   Engine](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/334.pdf)
+- [ ] 🔗 [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ## Miscellaneous
 
