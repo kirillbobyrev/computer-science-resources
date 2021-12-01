@@ -64,6 +64,9 @@ This collection is also inspired by (and to some degree based on)
 - [ ] 🎥 [Distributed Systems lecture series from
   Cambridge](https://youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
   (shorter videos with the core concepts, 2020)
+- [ ] 🎥 [Paxos & TLA+ Turing Award
+  lectures](https://lamport.azurewebsites.net/tla/paxos-algorithm.html)
+  (shorter videos with the core concepts, 2020)
 - [ ] 📖 [Distributed Systems: Principles and
   Paradigms](https://www.goodreads.com/book/show/405614.Distributed_Systems)
   (Tanenbaum, 2006)
@@ -83,7 +86,8 @@ This collection is also inspired by (and to some degree based on)
   Datasets](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf)
   (2010)
 - [ ] 📄 [The Byzantine Generals
-  Problem](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Byzantine-Generals-Problem.pdf) (Lamport et al., 1982)
+  Problem](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Byzantine-Generals-Problem.pdf)
+  (Lamport et al., 1982)
 - [ ] 📄 [The Part-Time
   Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf) (_"The
   Paxos Paper"_, Lamport et al., 1998)
@@ -105,7 +109,8 @@ This collection is also inspired by (and to some degree based on)
   - [ ] [Vaccination Database Talks: Second
     Dose](https://db.cs.cmu.edu/seminar2021-dose2/) (2021)
 - [ ] 📖 [Designing Data Intensive
-  Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) (2015)
+  Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)
+  (2015)
 - [ ] 📖 [Architecture of a Database
   System](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf) (2017)
 - [ ] 📖 [Readings in Database
@@ -151,8 +156,10 @@ This collection is also inspired by (and to some degree based on)
 
 ### Rust
 
-- [ ] 📖 [The Rust Programming Language](https://doc.rust-lang.org/book/)
+- [x] 📖 [The Rust Programming Language](https://doc.rust-lang.org/book/)
   &mdash; the official Rust introduction book
+- [ ] 📖 [Rust for
+  Rustaceans](https://www.goodreads.com/book/show/58244064-rust-for-rustaceans)
 
 ### Go
 

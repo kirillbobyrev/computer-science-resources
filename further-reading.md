@@ -56,7 +56,7 @@ Engineering are.
 
 ### Rust
 
-- [ ] 🔗 [rustlings](https://github.com/rust-lang/rustlings) (a set of exercises
+- [x] 🔗 [rustlings](https://github.com/rust-lang/rustlings) (a set of exercises
   for learning Rust)
 
 ## Machine Learning
@@ -108,12 +108,11 @@ Engineering are.
 - [x] 🎙️ [Donald Knuth](https://youtu.be/2BdBfsXbST8)
 - [x] 🎙️ [Donald Knuth #2](https://youtu.be/EE1R8FYUJm0)
 - [x] 🎙️ [Dmitri Dolgov](https://youtu.be/P6prRXkI5HM)
+- [x] 🎙️ [Boris Sofman](https://youtu.be/U_AREIyd0Fc)
 - [ ] 🎙️ [David Silver](https://youtu.be/uPUEq8d73JI)
 - [ ] 🎙️ [Cris Lattner #1](https://www.youtube.com/watch?v=yCd3CzGSte8)
 - [ ] 🎙️ [Cris Lattner #2](https://youtu.be/nWTvXbQHwWs)
 - [x] 🎙️ [Brian Kernighan](https://youtu.be/O9upVbGSBFo)
-- [ ] 🎙️ [Gilbert Strang](https://youtu.be/lEZPfmGCEk0)
-- [x] 🎙️ [Peter Norvig](https://youtu.be/_VPxEcT_Adc)
 
 ## Miscellaneous
 
