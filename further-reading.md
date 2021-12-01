@@ -109,7 +109,6 @@ Engineering are.
 - [x] 🎙️ [Donald Knuth #2](https://youtu.be/EE1R8FYUJm0)
 - [x] 🎙️ [Dmitri Dolgov](https://youtu.be/P6prRXkI5HM)
 - [x] 🎙️ [Boris Sofman](https://youtu.be/U_AREIyd0Fc)
-- [ ] 🎙️ [David Silver](https://youtu.be/uPUEq8d73JI)
 - [ ] 🎙️ [Cris Lattner #1](https://www.youtube.com/watch?v=yCd3CzGSte8)
 - [ ] 🎙️ [Cris Lattner #2](https://youtu.be/nWTvXbQHwWs)
 - [x] 🎙️ [Brian Kernighan](https://youtu.be/O9upVbGSBFo)
