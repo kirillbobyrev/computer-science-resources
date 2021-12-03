@@ -223,9 +223,6 @@ This collection is also inspired by (and to some degree based on)
 - [ ] 🎥 [Natural Language
   Processing](https://youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
   (Chris Manning at Stanford, 2019)
-- [ ] 📖 [Artificial Intelligence: A Modern
-  Approach](https://www.goodreads.com/book/show/27543.Artificial_Intelligence)
-  (Russel, Norvig, 4th Edition 2021)
 - [ ] 📖 [Reinforcement Learning, an
   Introduction](https://www.goodreads.com/book/show/42601538-reinforcement-learning)
   (Richard Sutton, 2018)
