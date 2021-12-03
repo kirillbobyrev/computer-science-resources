@@ -70,8 +70,8 @@ Engineering are.
 - [ ] 🎥 [Coursera Reinforcement Learning
   Specialization](https://www.coursera.org/specializations/reinforcement-learning)
   (University of Alberta and DeepMind)
-- [ ] 🎥 [AlphaGo - The Movie](https://youtu.be/WXuK6gekU1Y) &mdash; not really
-  "scientific" and more intended for leisure but still fun to watch
+- [ ] 🎥 [DeepMind x UCL Reinforcement Learning
+  Course](https://youtu.be/WXuK6gekU1Y)
 
 ### Self-Driving Cars
 
