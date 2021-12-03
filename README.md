@@ -181,15 +181,15 @@ This collection is also inspired by (and to some degree based on)
     (CMU 2015)
 - [ ] 🎥 [MIT's Operating System
   Engineering](https://pdos.csail.mit.edu/6.S081/2021/schedule.html)
+- [ ] 🎥 "From NAND to Tetris" on Coursera
+  - [ ] [Part 1](https://www.coursera.org/learn/build-a-computer)
+  - [ ] [Part 2](https://www.coursera.org/learn/nand2tetris2)
 - [ ] 📖 [Computer
   Architecture](https://www.goodreads.com/book/show/70135.Computer_Architecture)
   (Hennessy and Patterson, 2006)
 - [ ] 📖 [Modern Operating
   Systems](https://www.goodreads.com/book/show/166195.Modern_Operating_Systems)
   by Tanenbaum (2001)
-- [ ] 📖 [The Elements of Computing Systems: Building a Modern Computer from First
-  Principles](https://www.goodreads.com/book/show/910789.The_Elements_of_Computing_Systems)
-  (_"From NAND to Tetris"_)
 - [ ] 📖 [Reverse Engineering for
   Beginners](https://www.goodreads.com/book/show/25391593-reverse-engineering-for-beginners)
 - [ ] 📖 [The Little Book of
