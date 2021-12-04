@@ -67,11 +67,10 @@ Engineering are.
 
 ### Reinforcement Learning
 
+- [ ] 🎥 [Berkeley RL Course + assignments](http://rail.eecs.berkeley.edu/deeprlcourse/)
 - [ ] 🎥 [Coursera Reinforcement Learning
   Specialization](https://www.coursera.org/specializations/reinforcement-learning)
   (University of Alberta and DeepMind)
-- [ ] 🎥 [DeepMind x UCL Reinforcement Learning
-  Course](https://youtu.be/WXuK6gekU1Y)
 
 ### Self-Driving Cars
 
