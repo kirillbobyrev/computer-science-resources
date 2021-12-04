@@ -158,8 +158,6 @@ This collection is also inspired by (and to some degree based on)
 
 - [x] 📖 [The Rust Programming Language](https://doc.rust-lang.org/book/)
   &mdash; the official Rust introduction book
-- [ ] 📖 [Rust for
-  Rustaceans](https://www.goodreads.com/book/show/58244064-rust-for-rustaceans)
 
 ### Go
 

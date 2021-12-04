@@ -56,6 +56,8 @@ Engineering are.
 
 ### Rust
 
+- [ ] 📖 [Rust for
+  Rustaceans](https://www.goodreads.com/book/show/58244064-rust-for-rustaceans)
 - [x] 🔗 [rustlings](https://github.com/rust-lang/rustlings) (a set of exercises
   for learning Rust)
 
