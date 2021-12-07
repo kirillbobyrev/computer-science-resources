@@ -73,6 +73,7 @@ Engineering are.
 - [ ] 🎥 [Coursera Reinforcement Learning
   Specialization](https://www.coursera.org/specializations/reinforcement-learning)
   (University of Alberta and DeepMind)
+- [ ] 🔗 [Spinning Up in Deep RL](https://spinningup.openai.com/) (OpenAI)
 
 ### Self-Driving Cars
 
