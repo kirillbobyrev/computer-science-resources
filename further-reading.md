@@ -74,6 +74,12 @@ Engineering are.
   Specialization](https://www.coursera.org/specializations/reinforcement-learning)
   (University of Alberta and DeepMind)
 - [ ] 🔗 [Spinning Up in Deep RL](https://spinningup.openai.com/) (OpenAI)
+- [ ] 🎥 [AlphaGo - The Movie](https://youtu.be/WXuK6gekU1Y) &mdash; not really
+  "scientific" and more intended for leisure but still fun to watch
+- [ ] 🎥 [Deep Reinrforcement Learning
+  Bootcamp](https://sites.google.com/corp/view/deep-rl-bootcamp/home)
+- [ ] 🎥 [AlphaGo - The Movie](https://youtu.be/WXuK6gekU1Y) &mdash; not really
+  "scientific" and more intended for leisure but still fun to watch
 
 ### Self-Driving Cars
 
@@ -137,3 +143,5 @@ Engineering are.
   Must Know About Unicode and Character Sets (No
   Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
   (2013)
+- [ ] 🔗 [Deadlock Empire](https://deadlockempire.github.io/) - a set of
+  exercise on concurrent programming
