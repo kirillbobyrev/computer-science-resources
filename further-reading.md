@@ -33,6 +33,8 @@ Engineering are.
 
 ## Systems Programming (Operating Systems, Low-Level Primitives, Hardware)
 
+- [ ] 🎥 [MIT's Operating Systems
+  Engineering](https://pdos.csail.mit.edu/6.S081/2021/schedule.html)
 - [ ] 📄 [What every programmer should know about
   memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) (Paper
   and [LWN post series](https://lwn.net/Articles/250967), 2007)
