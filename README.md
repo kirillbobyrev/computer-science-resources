@@ -94,6 +94,14 @@ This collection is also inspired by (and to some degree based on)
 - [ ] 📄 [In Search of an Understandable Consensus
   Algorithm](https://raft.github.io/raft.pdf) ("The Raft Paper", 2014)
   - 🔗 [raft.gitghub.io](https://raft.github.io/raft.pdf)
+- [ ] 📄 [Brewer's conjecture and the feasibility of consistent, available,
+  partition-tolerant web
+  services](https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf)
+  (_"The CAP Theorem"_ proof, 2002)
+  - [ ] 📄 [CAP Twelve Years Later: How the "Rules" Have
+    Changed](https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf)
+    (2012)
+- [ ] 🔗 [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ## Databases
 
@@ -235,43 +243,6 @@ This collection is also inspired by (and to some degree based on)
 - [ ] 📖 [Introduction to Information
   Retrieval](https://www.goodreads.com/book/show/3278309-introduction-to-information-retrieval)
   (Chris Manning, 2008)
-
-## Distributed Systems
-
-- [ ] 🎥 [MIT Distribtued
-  Systems](https://youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
-  (2020)
-- [ ] 🎥 [Distributed Systems lecture series from
-  Cambridge](https://youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
-  (shorter videos with the core concepts, 2020)
-- [ ] 📖 [Distributed Systems: Principles and
-  Paradigms](https://www.goodreads.com/book/show/405614.Distributed_Systems)
-  (Tanenbaum, 2006)
-- [ ] 📄 [The Byzantine Generals
-  Problem](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Byzantine-Generals-Problem.pdf)
-  (Lamport et al., 1982)
-- [ ] 📄 [The Part-Time
-  Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf) ("The
-  Paxos Paper", Lamport et al., 1998)
-- [ ] 📄 [Brewer's conjecture and the feasibility of consistent, available,
-  partition-tolerant web
-  services](https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf)
-  (_"The CAP Theorem"_ proof, 2002)
-  - [ ] 📄 [CAP Twelve Years Later: How the "Rules" Have
-    Changed](https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf)
-    (2012)
-- [ ] 📄 [In Search of an Understandable Consensus
-  Algorithm](https://raft.github.io/raft.pdf) ("The Raft Paper", 2014)
-  - 🔗 [raft.gitghub.io](https://raft.github.io/raft.pdf)
-- [ ] 📄 [The Google
-  Filesystem](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
-  (2003)
-- [ ] 📄 [MapReduce: Simplified Data Processing on Large
-  Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
-  (Jeffrey Dean and Sanjay Ghemawat, 2004)
-- [ ] 📄 [The Anatomy of a Large-Scale Hypertextual Web Search
-  Engine](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/334.pdf)
-- [ ] 🔗 [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ## Miscellaneous
 
