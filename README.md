@@ -51,6 +51,7 @@ This collection is also inspired by (and to some degree based on)
     Searching](https://www.goodreads.com/book/show/363999.The_Art_of_Computer_Programming)
   - [ ] [Volume 4A – Combinatorial Algorithms, Part
     1](https://www.goodreads.com/book/show/9412211-the-art-of-computer-programming-volume-4a)
+- [ ] 🔗 [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 - [ ] 🔗 [CP-Algorithms](https://cp-algorithms.com/index.html) &mdash; a
   translation of [e-maxx](http://e-maxx.ru/) (a Russian resource on Competitive
   Programming algorithms)
