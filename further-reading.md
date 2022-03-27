@@ -13,6 +13,7 @@ Engineering are.
 - [ ] 🎥 [Graph Theory and Additive
   Combinatorics](https://youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX)
   (2019)
+- [ ] 🎥 [MIT Advanced Data Structures](https://courses.csail.mit.edu/6.851/spring21/)
 - [ ] 📄 [R-trees: a dynamic index structure for spatial
   searching](http://www-db.deis.unibo.it/courses/SI-LS/papers/Gut84.pdf) (1984)
 
