@@ -7,13 +7,14 @@ Engineering are.
 
 ## Algorithms and Data Structures
 
+- [ ] 📖 [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/) (2022, Work in Progress)
 - [ ] 🎥 [Algorithms and Data Structures courses at
   IFMO](https://youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4)
   (2020-2021)
 - [ ] 🎥 [Graph Theory and Additive
   Combinatorics](https://youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX)
   (2019)
-- [ ] 🎥 [MIT Advanced Data Structures](https://courses.csail.mit.edu/6.851/spring21/)
+- [ ] 🎥 [MIT Advanced Data Structures](https://courses.csail.mit.edu/6.851/spring21/) (2021)
 - [ ] 📄 [R-trees: a dynamic index structure for spatial
   searching](http://www-db.deis.unibo.it/courses/SI-LS/papers/Gut84.pdf) (1984)
 
