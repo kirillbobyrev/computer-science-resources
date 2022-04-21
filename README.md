@@ -108,8 +108,8 @@ This collection is also inspired by (and to some degree based on)
 
 - [ ] 🎥 CMU's YouTube Channel
   - [ ] [Andy Pavlo's Intro to Database
-    Systems](https://youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi),
-    (2019, lectures + assignments)
+    Systems](https://15445.courses.cs.cmu.edu/fall2022/),
+    (2022, lectures + assignments)
   - [ ] [Andy Pavlo's Advanced Database
     Systems](https://youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
     (2020, lectures + assignments)
