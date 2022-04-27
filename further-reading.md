@@ -133,6 +133,8 @@ Engineering are.
   (_in Russian_, MIPT, 2020)
 - [ ] 🎥 [YCombinator Startup School curriculum](https://www.startupschool.org)
   (MIT, Spring 2017)
+- [ ] 🎥 [Blockchain and Money](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/)
+  (MIT, 2018)
 - [ ] 📖 [Literate
   Programming](http://www.literateprogramming.com/knuthweb.pdf) (Knuth, 1984)
   - 🔗 [literateprogramming.com](http://www.literateprogramming.com)
