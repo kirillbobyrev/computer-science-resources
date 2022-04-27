@@ -248,7 +248,7 @@ This collection is also inspired by (and to some degree based on)
 ## Miscellaneous
 
 - [ ] 🎥 [Performance Engineering of Software
-  Systems](https://youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)
+  Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)
   (MIT, 2018)
 - [ ] 📖 [Concrete Mathematics: A Foundation for Computer
   Science](https://www.goodreads.com/book/show/112243.Concrete_Mathematics)
