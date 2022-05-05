@@ -188,6 +188,7 @@ This collection is also inspired by (and to some degree based on)
     (CMU 2015)
 - [ ] 🎥 [MIT's Operating System
   Engineering](https://pdos.csail.mit.edu/6.S081/2021/schedule.html)
+- [ ] 🎥 [Computation Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/)
 - [ ] 🎥 [Introduction to Operating Systems](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/)
 - [ ] 🎥 "From NAND to Tetris" on Coursera
   - [ ] [Part 1](https://www.coursera.org/learn/build-a-computer)
