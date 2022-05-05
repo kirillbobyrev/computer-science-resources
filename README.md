@@ -222,6 +222,8 @@ This collection is also inspired by (and to some degree based on)
 - [ ] 🎥 [Introduction to Computer
   Networking](https://youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG)
   (2019)
+- [ ] 🎥 + 📖 [Computer Networking: A Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
+  (2019)
 - [ ] 📖 [The Protocols (TCP/IP
   Illustrated)](https://www.goodreads.com/book/show/505560.The_Protocols) (1993)
 
