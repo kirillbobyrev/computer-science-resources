@@ -150,3 +150,4 @@ Engineering are.
   (2013)
 - [ ] 🔗 [Deadlock Empire](https://deadlockempire.github.io/) - a set of
   exercise on concurrent programming
+- [ ] 🔗 [chidb tutorial](http://chi.cs.uchicago.edu/chidb/index.html)
