@@ -151,3 +151,4 @@ Engineering are.
 - [ ] 🔗 [Deadlock Empire](https://deadlockempire.github.io/) - a set of
   exercise on concurrent programming
 - [ ] 🔗 [chidb tutorial](http://chi.cs.uchicago.edu/chidb/index.html)
+- [ ] 🔗 [Coding for SSDs](https://codecapsule.com/2014/02/12/coding-for-ssds-part-1-introduction-and-table-of-contents/)
