@@ -41,8 +41,8 @@ This collection is also inspired by (and to some degree based on)
 - [ ] 📖 [The Algorithm Design Manual](https://www.algorist.com/) (Skienna,
   2020)
 - [ ] 📖 [The Art of Computer
-  Programming](https://www-cs-faculty.stanford.edu/~knuth/taocp.html) by Donald
-  Knuth
+  Programming](https://www-cs-faculty.stanford.edu/~knuth/taocp.html) (Donald
+  Knuth)
   - [ ] [Volume 1 – Fundamental
     Algorithms](https://www.goodreads.com/book/show/112247.The_Art_of_Computer_Programming_Volume_1)
   - [ ] [Volume 2 – Seminumerical
@@ -92,9 +92,6 @@ This collection is also inspired by (and to some degree based on)
 - [ ] 📄 [The Part-Time
   Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf) (_"The
   Paxos Paper"_, Lamport et al., 1998)
-- [ ] 📄 [In Search of an Understandable Consensus
-  Algorithm](https://raft.github.io/raft.pdf) ("The Raft Paper", 2014)
-  - 🔗 [raft.gitghub.io](https://raft.github.io/raft.pdf)
 - [ ] 📄 [Brewer's conjecture and the feasibility of consistent, available,
   partition-tolerant web
   services](https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf)
@@ -102,6 +99,9 @@ This collection is also inspired by (and to some degree based on)
   - [ ] 📄 [CAP Twelve Years Later: How the "Rules" Have
     Changed](https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf)
     (2012)
+- [ ] 📄 [In Search of an Understandable Consensus
+  Algorithm](https://raft.github.io/raft.pdf) ("The Raft Paper", 2014)
+  - 🔗 [raft.gitghub.io](https://raft.github.io/raft.pdf)
 - [ ] 🔗 [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ## Databases
@@ -174,18 +174,13 @@ This collection is also inspired by (and to some degree based on)
   Language](https://www.goodreads.com/book/show/25080953-the-go-programming-language)
   (2015)
 
+### Python
+
+- [ ] 📖 [Fluent
+  Python](https://www.goodreads.com/book/show/60733158-fluent-python)
+
 ## Systems Programming (Operating Systems, Low-Level Primitives, Hardware)
 
-- [ ] 🎥 Onur Mutlu lectures
-  - [ ] [Digital Design and Computer
-    Architecture](https://youtube.com/playlist?list=PL5Q2soXY2Zi_FRrloMa2fUYWPGiZUBQo2)
-    ("How Computers Work from the ground up", ETH Zurich 2020)
-  - [ ] [Computer Architecture
-    lectures](https://youtube.com/playlist?list=PL5Q2soXY2Zi-DyoI3HbqcdtUm9YWRR_z-)
-    (ETH Zurich 2019)
-  - [ ] [Computer Architecture lectures
-    at](https://youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq)
-    (CMU 2015)
 - [ ] 🎥 [MIT's Operating System
   Engineering](https://pdos.csail.mit.edu/6.S081/2021/schedule.html)
 - [ ] 🎥 [Computation Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/)
@@ -205,13 +200,13 @@ This collection is also inspired by (and to some degree based on)
   Semaphores](https://www.goodreads.com/book/show/6965200-the-little-book-of-semaphores)
 - [ ] 📖 [The UNIX Programming
   Environment](https://www.goodreads.com/book/show/337338.The_UNIX_Programming_Environment)
-  by Kernighan, Rob Pike
+  (Kernighan, Rob Pike)
 
 ### Compilers
 
 - [ ] 📖 [Compilers: Principles, Techniques, and
   Tools](https://www.goodreads.com/book/show/703102.Compilers) (_"The Dragon
-  Book"_) by Aho, Sethi, Ullman (1986)
+  Book"_, Aho, Sethi, Ullman, 1986)
 - [ ] 📖 [Crafting
   Interpreters](https://www.goodreads.com/book/show/58661468-crafting-interpreters)
   (2021)

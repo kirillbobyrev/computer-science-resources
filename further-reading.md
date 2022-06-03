@@ -72,24 +72,17 @@ Engineering are.
 
 ### Reinforcement Learning
 
-- [ ] 🎥 [Berkeley RL Course + assignments](http://rail.eecs.berkeley.edu/deeprlcourse/)
 - [ ] 🎥 [Coursera Reinforcement Learning
   Specialization](https://www.coursera.org/specializations/reinforcement-learning)
-  (University of Alberta and DeepMind)
-- [ ] 🔗 [Spinning Up in Deep RL](https://spinningup.openai.com/) (OpenAI)
-- [ ] 🎥 [AlphaGo - The Movie](https://youtu.be/WXuK6gekU1Y) &mdash; not really
-  "scientific" and more intended for leisure but still fun to watch
-- [ ] 🎥 [Deep Reinrforcement Learning
-  Bootcamp](https://sites.google.com/corp/view/deep-rl-bootcamp/home)
-- [ ] 🎥 [AlphaGo - The Movie](https://youtu.be/WXuK6gekU1Y) &mdash; not really
-  "scientific" and more intended for leisure but still fun to watch
+  (University of Alberta and DeepMind, accompanies Sutton's book)
+- [ ] 🎥 [Berkeley RL Course + assignments](http://rail.eecs.berkeley.edu/deeprlcourse/)
 
 ### Self-Driving Cars
 
 - [ ] 🎥 [Coursera Self Driving Cars
   specialization](https://www.coursera.org/specializations/self-driving-cars)
   (University of Toronto)
-- [ ] 📄 [Waymo Safety Report](waymo.com/safety/safety-report)
+- [ ] 📄 [Waymo Safety Report](https://storage.googleapis.com/waymo-uploads/files/documents/safety/2021-12-waymo-safety-report.pdf)
 - [ ] 📄 [Scalability in Perception for Autonomous Driving: Waymo Open
   Dataset](https://arxiv.org/abs/1912.04838)
 - [ ] 📄 [ChauffeurNet: Learning to Drive by Imitating the Best and Synthesizing
@@ -120,22 +113,17 @@ Engineering are.
 - [x] 🎙️ [Donald Knuth #2](https://youtu.be/EE1R8FYUJm0)
 - [x] 🎙️ [Dmitri Dolgov](https://youtu.be/P6prRXkI5HM)
 - [x] 🎙️ [Boris Sofman](https://youtu.be/U_AREIyd0Fc)
-- [ ] 🎙️ [Cris Lattner #1](https://www.youtube.com/watch?v=yCd3CzGSte8)
-- [ ] 🎙️ [Cris Lattner #2](https://youtu.be/nWTvXbQHwWs)
 - [x] 🎙️ [Brian Kernighan](https://youtu.be/O9upVbGSBFo)
 
 ## Miscellaneous
 
 - [ ] 🎥 [Computation
   Structures](https://youtube.com/playlist?list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2)
-- [ ] 🎥
-  [Combinatorics](https://youtube.com/playlist?list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2)
-  (_in Russian_, MIPT, 2020)
 - [ ] 🎥 [YCombinator Startup School curriculum](https://www.startupschool.org)
   (MIT, Spring 2017)
 - [ ] 🎥 [Blockchain and Money](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/)
   (MIT, 2018)
-- [ ] 📖 [Literate
+- [ ] 📄 [Literate
   Programming](http://www.literateprogramming.com/knuthweb.pdf) (Knuth, 1984)
   - 🔗 [literateprogramming.com](http://www.literateprogramming.com)
 - [ ] 📄 [What Every Computer Scientist Should. Know About Floating-Point
