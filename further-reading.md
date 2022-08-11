@@ -7,8 +7,32 @@ Engineering are.
 
 ## Algorithms and Data Structures
 
+- [ ] 📖 [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/) (2022, Work in Progress)
+- [ ] 🎥 [Algorithms and Data Structures courses at
+  IFMO](https://youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4)
+  (2020-2021)
+- [ ] 🎥 [Graph Theory and Additive
+  Combinatorics](https://youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX)
+  (2019)
+- [ ] 🎥 [MIT Advanced Data Structures](https://courses.csail.mit.edu/6.851/spring21/) (2021)
+- [ ] 🎥 [MIT Advanced Algorithms](https://www.youtube.com/watch?v=hM547xRIdzc&list=PL6ogFv-ieghdoGKGg2Bik3Gl1glBTEu8c) (and newer [offering](https://courses.csail.mit.edu/6.854/21/))
+- [ ] 📄 [R-trees: a dynamic index structure for spatial
+  searching](http://www-db.deis.unibo.it/courses/SI-LS/papers/Gut84.pdf) (1984)
 
 ### Competitive Programming
+
+- [ ] 📖 [Competitive Programmer's
+  Handbook](https://www.goodreads.com/book/show/34861344-competitive-programmer-s-handbook)
+- [ ] 🔗 [NEERC IFMO
+  Wiki](http://neerc.ifmo.ru/wiki/index.php?title=%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B_%D0%B8_%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85):
+  comprehensive overview of important algorithms by one of the most successful
+  Russian universities (multiple times ACM ICPC winners), in Russian
+- [ ] 🔗 [The Ultimate Topic List (with Resources, Problems and
+  Templates)](https://codeforces.com/blog/entry/95106)
+- [ ] 🔗 [I compiled a list of almost all useful blogs ever published on
+  Codeforces](https://codeforces.com/blog/entry/91363)
+- [ ] 🔗 [Geeks for Geeks large algprithm
+  list](https://www.geeksforgeeks.org/fundamentals-of-algorithms)
 
 
 ## Systems Programming (Operating Systems, Low-Level Primitives, Hardware)
