@@ -12,4 +12,4 @@ Newsletters, YouTube channels to periodically check for fresh materials.
 - [Amazon Architecture](https://aws.amazon.com/blogs/architecture/)
 - [Facebook](https://engineering.fb.com/)
 - [Stripe](https://stripe.com/blog/engineering)
-- [Instacart](https://tech.instacart.com/))
+- [Instacart](https://tech.instacart.com/)

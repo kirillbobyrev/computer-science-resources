@@ -2,7 +2,7 @@
 
 Compilation of Computer Science courses, books, blog posts and videos.
 
-- _**The Fundamentals**_ (the list below) - "classic" resources recommended to
+- _**The Fundamentals**_ (this list) - "classic" resources recommended to
   me by someone or popular in the internet. Focuses on the most fundamental and
   important concepts in Computer Science.
 - [_**Further Reading**_](./further-reading.md) - short blog posts, articles
@@ -74,12 +74,9 @@ Compilation of Computer Science courses, books, blog posts and videos.
   partition-tolerant web
   services](https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf)
   (_"The CAP Theorem"_ proof, 2002)
-  - [ ] 📄 [CAP Twelve Years Later: How the "Rules" Have
-    Changed](https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf)
-    (2012)
-- [ ] 📄 [In Search of an Understandable Consensus
-  Algorithm](https://raft.github.io/raft.pdf) ("The Raft Paper", 2014)
-  - 🔗 [raft.gitghub.io](https://raft.github.io/raft.pdf)
+- [ ] 📄 [CAP Twelve Years Later: How the "Rules" Have Changed](https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf) (2012)
+- [ ] 📄 [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf) ("The Raft Paper", 2014)
+  - [ ] 🔗 [raft.gitghub.io](https://raft.github.io/raft.pdf)
 - [ ] 🔗 [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ## Databases
@@ -143,8 +140,9 @@ Compilation of Computer Science courses, books, blog posts and videos.
 
 ### Rust
 
-- [x] 📖 [The Rust Programming Language](https://doc.rust-lang.org/book/)
-  &mdash; the official Rust introduction book
+- [x] 📖 [The Rust Programming Language](https://doc.rust-lang.org/book/) &mdash; the official Rust introduction book
+- [x] 🔗 [rustlings](https://github.com/rust-lang/rustlings) (a set of exercises
+  for learning Rust)
 
 ### Go
 
@@ -213,33 +211,16 @@ Compilation of Computer Science courses, books, blog posts and videos.
 - [ ] 📖 [Deep
   Learning](https://www.goodreads.com/book/show/24072897-deep-learning) (Ian
   Goodfellow, Yoshua Bengio, 2016)
-- [ ] 📖 [Probabilistic Machine Learning: An
-  Introduction](https://probml.github.io/pml-book/book1.html) (Murphy, expected
-  2022)
-- [ ] 📖 [Probabilistic Machine Learning: Advanced
-  Topics](https://probml.github.io/pml-book/book2.html) (Murphy, expected 2022)
-- [ ] 📖 [Introduction to Information
-  Retrieval](https://www.goodreads.com/book/show/3278309-introduction-to-information-retrieval)
-  (Chris Manning, 2008)
+- [ ] 📖 [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) (Murphy, expected 2022)
+- [ ] 📖 [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html) (Murphy, expected 2022)
+- [ ] 📖 [Introduction to Information Retrieval](https://www.goodreads.com/book/show/3278309-introduction-to-information-retrieval) (Chris Manning, 2008)
 
 ## Miscellaneous
 
-- [ ] 🎥 [Performance Engineering of Software
-  Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)
-  (MIT, 2018)
-- [ ] 📖 [Concrete Mathematics: A Foundation for Computer
-  Science](https://www.goodreads.com/book/show/112243.Concrete_Mathematics)
-  (Graham, Knuth, Patashnik, 1994)
-- [ ] 📖 [Code
-  Complete](https://www.goodreads.com/book/show/21899045-code-complete) (2004)
-- [ ] 📖 [Domain-Driven
-  Design](https://www.goodreads.com/book/show/179133.Domain_Driven_Design)
-  (2003)
-- [ ] 📖 [Test-Driven
-  Development](https://www.goodreads.com/book/show/387190.Test_Driven_Development)
-  (2002)
-- [ ] 📖 [Quantum Computing for the Very Curious](https://quantum.country/qcvc)
-  (2019)
-- [x] 📖 [The Pragmatic
-  Programmer](https://www.goodreads.com/en/book/show/4099.The_Pragmatic_Programmer)
-  (2019)
+- [ ] 🎥 [Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/) (MIT, 2018)
+- [ ] 📖 [Concrete Mathematics: A Foundation for Computer Science](https://www.goodreads.com/book/show/112243.Concrete_Mathematics) (Graham, Knuth, Patashnik, 1994)
+- [ ] 📖 [Code Complete](https://www.goodreads.com/book/show/21899045-code-complete) (2004)
+- [ ] 📖 [Domain-Driven Design](https://www.goodreads.com/book/show/179133.Domain_Driven_Design) (2003)
+- [ ] 📖 [Test-Driven Development](https://www.goodreads.com/book/show/387190.Test_Driven_Development) (2002)
+- [ ] 📖 [Quantum Computing for the Very Curious](https://quantum.country/qcvc) (2019)
+- [x] 📖 [The Pragmatic Programmer](https://www.goodreads.com/en/book/show/4099.The_Pragmatic_Programmer) (2019)
