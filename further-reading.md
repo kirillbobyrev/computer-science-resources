@@ -140,3 +140,10 @@ Engineering are.
   exercise on concurrent programming
 - [ ] 🔗 [chidb tutorial](http://chi.cs.uchicago.edu/chidb/index.html)
 - [ ] 🔗 [Coding for SSDs](https://codecapsule.com/2014/02/12/coding-for-ssds-part-1-introduction-and-table-of-contents/)
+- [ ] 🔗 [CaskDB - (educational) build your own disk based KV store](https://github.com/avinassh/py-caskdb)
+
+### Single videos
+
+- [ ] 🎥 [A day in the life of a Netflix engineer](https://www.youtube.com/watch?v=0QS1TWLooo0)
+- [ ] 🎥 [Microservices at Netflix Scale: Principles, Tradeoffs & Lessons Learned](https://www.youtube.com/watch?v=57UK46qfBLY)
+- [ ] 🎥 [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM)

@@ -1,37 +1,14 @@
 # Computer Science Resources
 
-While studying Computer Science, I have accumulated resources on important
-fields in the form of books, papers, video recordings of the lectures, blog
-posts and podcasts. I used them as references (e.g. whenever I encountered a
-task in the corresponding field) and studied parts of them but (because I
-studied Physics and Mathematics at the university, not Computer Science) never
-had a chance to study them in depth. Bookmarks, book names and vague
-recollections of State-of-The-Art knowledge references were scattered across my
-Goodreads, YouTube, Notion lists until I decided to compile a single list and go
-through the resources one by one. I thought enumerating those and getting a
-complete list of great work might also be useful to the others. Since studying
-those is a serious work, it might take years to carefully study the subjects
-presented in the collection but all those topics are extremely exciting and
-certainly worth investing time into for anyone doing Software Engineering.
+Compilation of Computer Science courses, books, blog posts and videos.
 
-Unlike other lists with CS resources, mine does not focus on a particular
-feature of listed readings (e.g. being free, as in
-[ossu/computer-science](https://github.com/ossu/computer-science) curriculum),
-nor does it try being a "complete" curriculum. I have divided the collection
-into two parts:
-
-- _**The Fundamentals**_ (the list below) is the "short" list of "classic"
-  resources get I get recommended the most by wonderful engineers I have a
-  chance to talk to. It focuses on the most important strategic concepts in the
-  field and strives to give a good overview of the basics one needs to master to
-  work in that field.
-- [_**Further Reading**_](./further-reading.md) contains more links to short
-  blog posts, articles from the internet, more specific resources. This list
-  contains more of the resources I found myself while browsing the internet and
-  found useful at some point.
-
-This collection is also inspired by (and to some degree based on)
-[erikgrinaker/readings](https://github.com/erikgrinaker/readings).
+- _**The Fundamentals**_ (the list below) - "classic" resources recommended to
+  me by someone or popular in the internet. Focuses on the most fundamental and
+  important concepts in Computer Science.
+- [_**Further Reading**_](./further-reading.md) - short blog posts, articles
+  from the internet, more specific resources. Less fundamental, more practical
+  (and typically up-to-date).
+- [_**Periodic**_](./periodic.md) -
 
 ## Algorithms and Data Structures
 
