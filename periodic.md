@@ -13,3 +13,4 @@ Newsletters, YouTube channels to periodically check for fresh materials.
 - [Facebook](https://engineering.fb.com/)
 - [Stripe](https://stripe.com/blog/engineering)
 - [Instacart](https://tech.instacart.com/)
+- [Architecture notes](https://architecturenotes.co/)
