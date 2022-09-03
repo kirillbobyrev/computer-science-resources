@@ -218,6 +218,10 @@ Compilation of Computer Science courses, books, blog posts and videos.
 ## Miscellaneous
 
 - [ ] 🎥 [Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/) (MIT, 2018)
+- [ ] 🎥 [Computer Systems Security](https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/) (MIT, 2014)
+- [ ] 🎥 [Computer Systems Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/) (MIT, 2018)
+- [ ] 🎥 [Machine Vision](https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/) (MIT, 2020)
+- [ ] 🎥 [Introduction to Computer Graphics](https://youtube.com/playlist?list=PLQ3UicqQtfNuBjzJ-KEWmG1yjiRMXYKhh) (MIT, 2020) (+ [assignments](https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012/pages/assignments/))
 - [ ] 📖 [Concrete Mathematics: A Foundation for Computer Science](https://www.goodreads.com/book/show/112243.Concrete_Mathematics) (Graham, Knuth, Patashnik, 1994)
 - [ ] 📖 [Code Complete](https://www.goodreads.com/book/show/21899045-code-complete) (2004)
 - [ ] 📖 [Domain-Driven Design](https://www.goodreads.com/book/show/179133.Domain_Driven_Design) (2003)
