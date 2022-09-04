@@ -111,7 +111,9 @@ Engineering are.
   (Goldberg, 1991)
 - [ ] 📄 [The PageRank Citation Ranking: Bringing Order to the
   Web](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf) (Page, 1998)
-- [ ] [Are You Sure You Want to Use MMAP in Your Database Management System?](https://db.cs.cmu.edu/mmap-cidr2022/) (CMU, 2022)
+- [ ] 📄 [Evolution of Development Priorities in Key-value Stores Serving Large-scale Applications: The RocksDB Experience](https://www.usenix.org/conference/fast21/presentation/dong)
+- [ ] 📄 [Are You Sure You Want to Use MMAP in Your Database Management System?](https://db.cs.cmu.edu/mmap-cidr2022/) (CMU, 2022)
+- [ ] 📄 [SQLite: Past, Present and Future](https://www.vldb.org/pvldb/vol15/p3535-gaffney.pdf)
 - [ ] 🔗 [The Absolute Minimum Every Software Developer Absolutely, Positively
   Must Know About Unicode and Character Sets (No
   Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)

@@ -158,7 +158,7 @@ Compilation of Computer Science courses, books, blog posts and videos.
 ## Systems Programming (Operating Systems, Low-Level Primitives, Hardware)
 
 - [ ] 🎥 [MIT's Operating System
-  Engineering](https://pdos.csail.mit.edu/6.S081/2021/schedule.html)
+  Engineering](https://pdos.csail.mit.edu/6.S081/2022/schedule.html)
 - [ ] 🎥 [Computation Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/)
 - [ ] 🎥 [Introduction to Operating Systems](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/)
 - [ ] 🎥 "From NAND to Tetris" on Coursera
