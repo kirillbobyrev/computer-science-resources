@@ -34,7 +34,6 @@ Engineering are.
 - [ ] 🔗 [Geeks for Geeks large algprithm
   list](https://www.geeksforgeeks.org/fundamentals-of-algorithms)
 
-
 ## Systems Programming (Operating Systems, Low-Level Primitives, Hardware)
 
 - [ ] 📄 [What every programmer should know about
@@ -123,6 +122,7 @@ Engineering are.
 - [ ] 🔗 [chidb tutorial](http://chi.cs.uchicago.edu/chidb/index.html)
 - [ ] 🔗 [Coding for SSDs](https://codecapsule.com/2014/02/12/coding-for-ssds-part-1-introduction-and-table-of-contents/)
 - [ ] 🔗 [CaskDB - (educational) build your own disk based KV store](https://github.com/avinassh/py-caskdb)
+- [ ] 🔗 [The Modern Algorithmic Toolbox course materials](https://web.stanford.edu/class/cs168/index.html) (Stanford, 2022)
 
 ### Single videos
 
