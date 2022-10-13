@@ -103,6 +103,7 @@ Engineering are.
 - [ ] 🎥 [YCombinator Startup School curriculum](https://www.startupschool.org)
   (MIT, Spring 2017)
 - [ ] 🎥 [Blockchain and Money](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/) (MIT, 2018)
+- [ ] 🎥 [Great Ideas in Computer Architecture (Machine Structures)](https://inst.eecs.berkeley.edu/~cs61c/su20/) (Berkeley, 2020)
 - [ ] 📄 [Literate Programming](http://www.literateprogramming.com/knuthweb.pdf) (Knuth, 1984)
   - [ ] 🔗 [literateprogramming.com](http://www.literateprogramming.com)
 - [ ] 📄 [What Every Computer Scientist Should. Know About Floating-Point
@@ -129,3 +130,8 @@ Engineering are.
 - [ ] 🎥 [A day in the life of a Netflix engineer](https://www.youtube.com/watch?v=0QS1TWLooo0)
 - [ ] 🎥 [Microservices at Netflix Scale: Principles, Tradeoffs & Lessons Learned](https://www.youtube.com/watch?v=57UK46qfBLY)
 - [ ] 🎥 [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
+
+## Other
+
+[Papers We Love](https://github.com/papers-we-love/papers-we-love) is an
+extensive collection of Computer Science papers.
