@@ -170,6 +170,8 @@ Compilation of Computer Science courses, books, blog posts and videos.
   by Tanenbaum (2001)
 - [ ] 📖 [Reverse Engineering for
   Beginners](https://www.goodreads.com/book/show/25391593-reverse-engineering-for-beginners)
+  - [ ] 🔗 [Book website](https://beginners.re/)
+  - [ ] 🔗 [Challenges](https://challenges.re/)
 - [ ] 📖 [The Little Book of
   Semaphores](https://www.goodreads.com/book/show/6965200-the-little-book-of-semaphores)
 - [ ] 📖 [The UNIX Programming
