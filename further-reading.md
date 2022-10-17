@@ -45,6 +45,8 @@ Engineering are.
 
 ## Distributed Systems
 
+- [ ] 📖  [Patterns of Distributed
+  Systems](https://martinfowler.com/articles/patterns-of-distributed-systems)
 - [ ] 📄 [Chord: A Scalable Peer-to-peer Lookup Service for Internet
   Applications](https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf)
   (2001)
