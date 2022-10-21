@@ -61,6 +61,8 @@ Engineering are.
 
 - [ ] 🎥 [TinyML and Efficient Deep Learning](https://efficientml.ai/) (MIT,
   2022)
+- [ ] 🎥 [Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/)
+  (Stanford, 2022)
 - [ ] 📄 [Distributed representations of words and phrases and their
   compositionality](https://proceedings.neurips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf)
   ("Word2Vec Paper", 2013)
