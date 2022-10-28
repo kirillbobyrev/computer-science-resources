@@ -110,6 +110,7 @@ Engineering are.
   (MIT, Spring 2017)
 - [ ] 🎥 [Blockchain and Money](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/) (MIT, 2018)
 - [ ] 🎥 [Great Ideas in Computer Architecture (Machine Structures)](https://inst.eecs.berkeley.edu/~cs61c/su20/) (Berkeley, 2020)
+- [ ] 🎥 [Real-Time Delivery Architecture at Twitter](https://www.infoq.com/presentations/Real-Time-Delivery-Twitter/)
 - [ ] 📄 [Literate Programming](http://www.literateprogramming.com/knuthweb.pdf) (Knuth, 1984)
   - [ ] 🔗 [literateprogramming.com](http://www.literateprogramming.com)
 - [ ] 📄 [What Every Computer Scientist Should. Know About Floating-Point
