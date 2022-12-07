@@ -111,6 +111,7 @@ Engineering are.
 - [ ] 🎥 [Blockchain and Money](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/) (MIT, 2018)
 - [ ] 🎥 [Great Ideas in Computer Architecture (Machine Structures)](https://inst.eecs.berkeley.edu/~cs61c/su20/) (Berkeley, 2020)
 - [ ] 🎥 [Real-Time Delivery Architecture at Twitter](https://www.infoq.com/presentations/Real-Time-Delivery-Twitter/)
+- [ ] 🎥 [The Fourier Transform and its Applications](https://see.stanford.edu/course/ee261)
 - [ ] 📄 [Literate Programming](http://www.literateprogramming.com/knuthweb.pdf) (Knuth, 1984)
   - [ ] 🔗 [literateprogramming.com](http://www.literateprogramming.com)
 - [ ] 📄 [What Every Computer Scientist Should. Know About Floating-Point
@@ -131,6 +132,8 @@ Engineering are.
 - [ ] 🔗 [Coding for SSDs](https://codecapsule.com/2014/02/12/coding-for-ssds-part-1-introduction-and-table-of-contents/)
 - [ ] 🔗 [CaskDB - (educational) build your own disk based KV store](https://github.com/avinassh/py-caskdb)
 - [ ] 🔗 [The Modern Algorithmic Toolbox course materials](https://web.stanford.edu/class/cs168/index.html) (Stanford, 2022)
+- [ ] 🔗 [Roaring Bitmaps](https://roaringbitmap.org/about/)
+- [ ] 🔗 [CS 007: Personal Finance for Engineers](https://cs007.blog/)
 
 ### Single videos
 
