@@ -31,7 +31,7 @@ Engineering are.
   Templates)](https://codeforces.com/blog/entry/95106)
 - [ ] 🔗 [I compiled a list of almost all useful blogs ever published on
   Codeforces](https://codeforces.com/blog/entry/91363)
-- [ ] 🔗 [Geeks for Geeks large algprithm
+- [ ] 🔗 [Geeks for Geeks large algorithm
   list](https://www.geeksforgeeks.org/fundamentals-of-algorithms)
 
 ## Systems Programming (Operating Systems, Low-Level Primitives, Hardware)
