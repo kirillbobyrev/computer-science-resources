@@ -36,6 +36,7 @@ Engineering are.
 
 ## Systems Programming (Operating Systems, Low-Level Primitives, Hardware)
 
+- [ ] 🎥 [The Golden Age of Compiler Design in an Era of HW/SW Co-design](https://youtu.be/4HgShra-KnY) (Chris Lattner)
 - [ ] 📄 [What every programmer should know about
   memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) (Paper
   and [LWN post series](https://lwn.net/Articles/250967), 2007)
