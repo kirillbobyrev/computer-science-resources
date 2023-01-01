@@ -141,6 +141,7 @@ Engineering are.
 - [ ] 🎥 [Microservices at Netflix Scale: Principles, Tradeoffs & Lessons Learned](https://www.youtube.com/watch?v=57UK46qfBLY)
 - [ ] 🎥 [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
 - [ ] 🎥 [The Golden Age of Compiler Design in an Era of HW/SW Co-design](https://youtu.be/4HgShra-KnY) (Chris Lattner)
+- [ ] 🎥 [The Soul of a New Machine: Rethinking the Computer](https://youtu.be/vvZA9n3e5pc)
 
 ## Other
 
