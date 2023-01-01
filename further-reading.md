@@ -36,7 +36,6 @@ Engineering are.
 
 ## Systems Programming (Operating Systems, Low-Level Primitives, Hardware)
 
-- [ ] 🎥 [The Golden Age of Compiler Design in an Era of HW/SW Co-design](https://youtu.be/4HgShra-KnY) (Chris Lattner)
 - [ ] 📄 [What every programmer should know about
   memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) (Paper
   and [LWN post series](https://lwn.net/Articles/250967), 2007)
@@ -141,6 +140,7 @@ Engineering are.
 - [ ] 🎥 [A day in the life of a Netflix engineer](https://www.youtube.com/watch?v=0QS1TWLooo0)
 - [ ] 🎥 [Microservices at Netflix Scale: Principles, Tradeoffs & Lessons Learned](https://www.youtube.com/watch?v=57UK46qfBLY)
 - [ ] 🎥 [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
+- [ ] 🎥 [The Golden Age of Compiler Design in an Era of HW/SW Co-design](https://youtu.be/4HgShra-KnY) (Chris Lattner)
 
 ## Other
 
