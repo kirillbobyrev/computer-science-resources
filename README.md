@@ -76,7 +76,7 @@ Compilation of Computer Science courses, books, blog posts and videos.
 - [ ] 📄 [Time, Clocks, and the Ordering of Events in a Distributed System](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 - [ ] 📄 [CAP Twelve Years Later: How the "Rules" Have Changed](https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf) (2012)
 - [ ] 📄 [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf) ("The Raft Paper", 2014)
-  - [ ] 🔗 [raft.gitghub.io](https://raft.github.io/raft.pdf)
+  - [ ] 🔗 [raft.github.io](https://raft.github.io/raft.pdf)
 - [ ] 🔗 [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ## Databases
