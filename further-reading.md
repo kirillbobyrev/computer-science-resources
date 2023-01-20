@@ -7,7 +7,6 @@ Engineering are.
 
 ## Algorithms and Data Structures
 
-- [ ] 📖 [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/) (2022, Work in Progress)
 - [ ] 🎥 [Algorithms and Data Structures courses at
   IFMO](https://youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4)
   (2020-2021)
@@ -16,6 +15,7 @@ Engineering are.
   (2019)
 - [ ] 🎥 [MIT Advanced Data Structures](https://courses.csail.mit.edu/6.851/spring21/) (2021)
 - [ ] 🎥 [MIT Advanced Algorithms](https://www.youtube.com/watch?v=hM547xRIdzc&list=PL6ogFv-ieghdoGKGg2Bik3Gl1glBTEu8c) (and newer [offering](https://courses.csail.mit.edu/6.854/21/))
+- [ ] 📖 [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/) (2022, Work in Progress)
 - [ ] 📄 [R-trees: a dynamic index structure for spatial
   searching](http://www-db.deis.unibo.it/courses/SI-LS/papers/Gut84.pdf) (1984)
 
@@ -36,6 +36,7 @@ Engineering are.
 
 ## Systems Programming (Operating Systems, Low-Level Primitives, Hardware)
 
+- [ ] 🎥 [Build a 6502 computer](https://eater.net/6502)
 - [ ] 📄 [What every programmer should know about
   memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) (Paper
   and [LWN post series](https://lwn.net/Articles/250967), 2007)
@@ -87,20 +88,6 @@ Engineering are.
 - [ ] 📄 [Sim2Real Predictivity: Does Evaluation in Simulation Predict Real-World Performance?](https://arxiv.org/abs/1912.06321)
 - [ ] 📄 [A Survey of Autonomous Driving: Common Practices and Emerging Technologies](https://arxiv.org/abs/1906.05113)
 - [ ] 📄 [AirSim: High-Fidelity Visual and Physical Simulation for Autonomous Vehicles](https://arxiv.org/abs/1705.05065v2)
-- [ ] 🔗 Waymo blog
-  - [ ] 🔗 [Simulation City: Introducing Waymo's most advanced simulation system yet for autonomous driving](https://blog.waymo.com/2021/06/SimulationCity.html)
-  - [ ] 🔗 [VectorNet: Predicting behavior to help the Waymo Driver make better decisions](https://blog.waymo.com/2020/05/vectornet.html)
-
-## Podcasts
-
-### Lex Fridman
-
-- [x] 🎙️ [David Patterson](https://youtu.be/naed4C4hfAg)
-- [x] 🎙️ [Donald Knuth](https://youtu.be/2BdBfsXbST8)
-- [x] 🎙️ [Donald Knuth #2](https://youtu.be/EE1R8FYUJm0)
-- [x] 🎙️ [Dmitri Dolgov](https://youtu.be/P6prRXkI5HM)
-- [x] 🎙️ [Boris Sofman](https://youtu.be/U_AREIyd0Fc)
-- [x] 🎙️ [Brian Kernighan](https://youtu.be/O9upVbGSBFo)
 
 ## Miscellaneous
 
@@ -124,6 +111,7 @@ Engineering are.
 - [ ] 📄 [Evolution of Development Priorities in Key-value Stores Serving Large-scale Applications: The RocksDB Experience](https://www.usenix.org/conference/fast21/presentation/dong)
 - [ ] 📄 [Are You Sure You Want to Use MMAP in Your Database Management System?](https://db.cs.cmu.edu/mmap-cidr2022/) (CMU, 2022)
 - [ ] 📄 [SQLite: Past, Present and Future](https://www.vldb.org/pvldb/vol15/p3535-gaffney.pdf)
+- [ ] 📄 [Securing Passwords Against Dictionary Attacks](http://www.pinkas.net/PAPERS/pwdweb.pdf)
 - [ ] 🔗 [The Absolute Minimum Every Software Developer Absolutely, Positively
   Must Know About Unicode and Character Sets (No
   Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)

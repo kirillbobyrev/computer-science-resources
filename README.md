@@ -68,10 +68,12 @@ Compilation of Computer Science courses, books, blog posts and videos.
 - [ ] 📄 [The Part-Time
   Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf) (_"The
   Paxos Paper"_, Lamport et al., 1998)
+  - [ ] 📄 [Paxos made simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
 - [ ] 📄 [Brewer's conjecture and the feasibility of consistent, available,
   partition-tolerant web
   services](https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf)
   (_"The CAP Theorem"_ proof, 2002)
+- [ ] 📄 [Time, Clocks, and the Ordering of Events in a Distributed System](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 - [ ] 📄 [CAP Twelve Years Later: How the "Rules" Have Changed](https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf) (2012)
 - [ ] 📄 [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf) ("The Raft Paper", 2014)
   - [ ] 🔗 [raft.gitghub.io](https://raft.github.io/raft.pdf)
@@ -162,6 +164,7 @@ Compilation of Computer Science courses, books, blog posts and videos.
 - [ ] 🎥 "From NAND to Tetris" on Coursera
   - [ ] [Part 1](https://www.coursera.org/learn/build-a-computer)
   - [ ] [Part 2](https://www.coursera.org/learn/nand2tetris2)
+- [ ] 📖 [The UNIX TimeSharing System](https://dsf.berkeley.edu/cs262/unix.pdf)
 - [ ] 📖 [Computer
   Architecture](https://www.goodreads.com/book/show/70135.Computer_Architecture)
   (Hennessy and Patterson, 2006)
