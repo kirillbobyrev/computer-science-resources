@@ -97,6 +97,7 @@ Engineering are.
   (MIT, Spring 2017)
 - [ ] 🎥 [Blockchain and Money](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/) (MIT, 2018)
   - [x] 📄 [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) (Satoshi Nakomoto, 2008)
+- [ ] 🎥 [CS 253 Web Security](https://youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-) + [readings](https://web.stanford.edu/class/cs253/) (Stanford)
 - [ ] 🎥 [Great Ideas in Computer Architecture (Machine Structures)](https://inst.eecs.berkeley.edu/~cs61c/su20/) (Berkeley, 2020)
 - [ ] 🎥 [Real-Time Delivery Architecture at Twitter](https://www.infoq.com/presentations/Real-Time-Delivery-Twitter/)
 - [ ] 🎥 [The Fourier Transform and its Applications](https://see.stanford.edu/course/ee261)
