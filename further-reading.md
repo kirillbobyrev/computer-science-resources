@@ -126,7 +126,9 @@ Engineering are.
 - [ ] 🔗 [The Modern Algorithmic Toolbox course materials](https://web.stanford.edu/class/cs168/index.html) (Stanford, 2022)
 - [ ] 🔗 [Roaring Bitmaps](https://roaringbitmap.org/about/)
 - [x] 🔗 [CS 007: Personal Finance for Engineers](https://cs007.blog/)
+- [ ] 🔗 [CRDT](https://crdt.tech/) + [Conflict-free Replicated Data Types: An Overview](https://arxiv.org/abs/1806.10254)
 - [ ] :octocat: [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
+- [ ] :octocat: [mini-redis](https://github.com/tokio-rs/mini-redis)
 
 ### Single videos
 
