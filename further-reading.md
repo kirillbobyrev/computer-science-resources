@@ -140,5 +140,6 @@ Engineering are.
 
 ## Other
 
-[Papers We Love](https://github.com/papers-we-love/papers-we-love) is an
+- [Papers We Love](https://github.com/papers-we-love/papers-we-love) is an
 extensive collection of Computer Science papers.
+- [Papers with code](https://paperswithcode.com/)
