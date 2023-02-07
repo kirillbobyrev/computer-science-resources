@@ -129,6 +129,7 @@ Engineering are.
 - [ ] 🔗 [CRDT](https://crdt.tech/) + [Conflict-free Replicated Data Types: An Overview](https://arxiv.org/abs/1806.10254)
 - [ ] :octocat: [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
 - [ ] :octocat: [mini-redis](https://github.com/tokio-rs/mini-redis)
+- [ ] :octocat: [mini-lsm](https://github.com/skyzh/mini-lsm)
 
 ### Single videos
 
