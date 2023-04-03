@@ -44,9 +44,6 @@ Compilation of Computer Science courses, books, blog posts and videos.
 - [ ] 🎥 [Paxos & TLA+ Turing Award
   lectures](https://lamport.azurewebsites.net/tla/paxos-algorithm.html)
   (shorter videos with the core concepts, 2020)
-- [ ] 📖 [Distributed Systems: Principles and
-  Paradigms](https://www.goodreads.com/book/show/405614.Distributed_Systems)
-  (Tanenbaum, 2006)
 - [ ] 📄 [The Anatomy of a Large-Scale Hypertextual Web Search
   Engine](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/334.pdf)
   ("The Google Paper", Brin, Page, 1998)
