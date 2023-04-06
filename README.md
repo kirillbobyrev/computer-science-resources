@@ -8,8 +8,6 @@ Compilation of Computer Science courses, books, blog posts and videos.
 - [_**Further Reading**_](./further-reading.md) - short blog posts, articles
   from the internet, more specific resources. Less fundamental, more practical
   (and typically up-to-date).
-- [_**Periodic**_](./periodic.md) - resources to check ~monthly for new updates.
-  This is mostly for newsletters and blogs that provide high-quality content.
 
 ## Algorithms and Data Structures
 
@@ -193,9 +191,6 @@ Compilation of Computer Science courses, books, blog posts and videos.
 
 ### Networking
 
-- [ ] 🎥 [Introduction to Computer
-  Networking](https://youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG)
-  (2019)
 - [ ] 🎥 + 📖 [Computer Networking: A Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
   (2019)
 - [ ] 📖 [The Protocols (TCP/IP
@@ -206,15 +201,12 @@ Compilation of Computer Science courses, books, blog posts and videos.
 - [ ] 🎥 [Natural Language
   Processing](https://youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
   (Chris Manning at Stanford, 2019)
-- [ ] 📖 [Reinforcement Learning, an
-  Introduction](https://www.goodreads.com/book/show/42601538-reinforcement-learning)
-  (Richard Sutton, 2018)
 - [ ] 📖 [Deep
   Learning](https://www.goodreads.com/book/show/24072897-deep-learning) (Ian
   Goodfellow, Yoshua Bengio, 2016)
-- [ ] 📖 [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) (Murphy, expected 2022)
-- [ ] 📖 [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html) (Murphy, expected 2022)
-- [ ] 📖 [Introduction to Information Retrieval](https://www.goodreads.com/book/show/3278309-introduction-to-information-retrieval) (Chris Manning, 2008)
+- [ ] 📖 [Introduction to Information
+  Retrieval](https://www.goodreads.com/book/show/3278309-introduction-to-information-retrieval)
+  (Chris Manning, 2008)
 
 ## Miscellaneous
 
