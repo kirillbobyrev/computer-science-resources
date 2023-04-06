@@ -8,6 +8,8 @@ Compilation of Computer Science courses, books, blog posts and videos.
 - [_**Further Reading**_](./further-reading.md) - short blog posts, articles
   from the internet, more specific resources. Less fundamental, more practical
   (and typically up-to-date).
+- [_**Periodic**_](./periodic.md) - resources to check ~monthly for new updates.
+  This is mostly for newsletters and blogs that provide high-quality content.
 
 ## Algorithms and Data Structures
 
@@ -179,12 +181,12 @@ Compilation of Computer Science courses, books, blog posts and videos.
 ### Compilers
 
 - [ ] 🎥 [CS 6120: Advanced Compilers γ](https://www.cs.cornell.edu/courses/cs6120/2020fa/) (Cornell University, 2020)
-- [ ] 📖 [Compilers: Principles, Techniques, and
-  Tools](https://www.goodreads.com/book/show/703102.Compilers) (_"The Dragon
-  Book"_, Aho, Sethi, Ullman, 1986)
 - [ ] 📖 [Crafting
   Interpreters](https://www.goodreads.com/book/show/58661468-crafting-interpreters)
   (2021)
+- [ ] 📖 [Compilers: Principles, Techniques, and
+  Tools](https://www.goodreads.com/book/show/703102.Compilers) (_"The Dragon
+  Book"_, Aho, Sethi, Ullman, 1986)
 - [ ] 📖 [Structure and Interpretation of Computer
   Programs](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs)
   (_"SICP"_, 1996)
