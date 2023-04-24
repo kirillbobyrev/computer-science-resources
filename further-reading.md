@@ -18,6 +18,7 @@ Engineering are.
 - [ ] 📖 [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/) (2022, Work in Progress)
 - [ ] 📄 [R-trees: a dynamic index structure for spatial
   searching](http://www-db.deis.unibo.it/courses/SI-LS/papers/Gut84.pdf) (1984)
+- [ ] 🔗 [An introduction to lockless algorithms](https://lwn.net/Articles/844224/)
 
 ### Competitive Programming
 
