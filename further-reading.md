@@ -47,7 +47,7 @@ Engineering are.
 
 ## Distributed Systems
 
-- [ ] 📖  [Patterns of Distributed
+- [ ] 📖 [Patterns of Distributed
   Systems](https://martinfowler.com/articles/patterns-of-distributed-systems)
 - [ ] 📄 [Chord: A Scalable Peer-to-peer Lookup Service for Internet
   Applications](https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf)
@@ -104,6 +104,7 @@ Engineering are.
 - [ ] 🎥 [The Fourier Transform and its Applications](https://see.stanford.edu/course/ee261)
 - [ ] 🎥 [Cryptography](https://www.coursera.org/learn/crypto) and [Cryptography 2](https://www.coursera.org/learn/crypto2) (Stanford, Coursera)
 - [ ] 🎥 [Transformers United](https://web.stanford.edu/class/cs25/prev_years/2021_fall/)
+- [ ] 📖 [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://arxiv.org/abs/1701.00854)
 - [ ] 📄 [Literate Programming](http://www.literateprogramming.com/knuthweb.pdf) (Knuth, 1984)
   - [ ] 🔗 [literateprogramming.com](http://www.literateprogramming.com)
 - [ ] 📄 [What Every Computer Scientist Should. Know About Floating-Point
