@@ -71,6 +71,7 @@ Compilation of Computer Science courses, books, blog posts and videos.
   services](https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf)
   (_"The CAP Theorem"_ proof, 2002)
 - [ ] 📄 [Time, Clocks, and the Ordering of Events in a Distributed System](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
+- [ ] [Distributed Computing in Practice: The Condor Experience](https://chtc.cs.wisc.edu/doc/condor-practice.pdf) (2005)
 - [ ] 📄 [CAP Twelve Years Later: How the "Rules" Have Changed](https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf) (2012)
 - [ ] 📄 [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf) ("The Raft Paper", 2014)
   - [ ] 🔗 [raft.github.io](https://raft.github.io/raft.pdf)
@@ -109,6 +110,9 @@ Compilation of Computer Science courses, books, blog posts and videos.
 - [ ] 📄 [F1: A Distributed SQL Database That
   Scales](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41344.pdf)
   (_"The F1 paper"_, 2013)
+- [ ] 📄 [Dynamo: Amazon's Highly Available Key-value
+  Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
+  (2007)
 
 ## Programming Languages
 
