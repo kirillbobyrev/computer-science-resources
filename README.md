@@ -5,11 +5,9 @@ Compilation of Computer Science courses, books, blog posts and videos.
 - _**The Fundamentals**_ (this list) - "classic" resources recommended to
   me by someone or popular in the internet. Focuses on the most fundamental and
   important concepts in Computer Science.
-- [_**Further Reading**_](./further-reading.md) - short blog posts, articles
+- [_**Further Reading**_](/further-reading.md) - short blog posts, articles
   from the internet, more specific resources. Less fundamental, more practical
   (and typically up-to-date).
-- [_**Periodic**_](./periodic.md) - resources to check ~monthly for new updates.
-  This is mostly for newsletters and blogs that provide high-quality content.
 
 ## Algorithms and Data Structures
 
