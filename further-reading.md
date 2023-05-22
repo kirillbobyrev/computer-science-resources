@@ -41,6 +41,7 @@ Engineering are.
 - [ ] 📄 [What every programmer should know about
   memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) (Paper
   and [LWN post series](https://lwn.net/Articles/250967), 2007)
+- [ ] 📄 [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
 - [ ] 🔗 [Computer Networking Introduction - Ethernet and IP (Heavily
   Illustrated)](https://iximiuz.com/en/posts/computer-networking-101/)
 - [ ] 🔗 [Writing an OS in Rust](https://os.phil-opp.com/)
@@ -105,6 +106,7 @@ Engineering are.
 - [ ] 🎥 [Cryptography](https://www.coursera.org/learn/crypto) and [Cryptography 2](https://www.coursera.org/learn/crypto2) (Stanford, Coursera)
 - [ ] 🎥 [Transformers United](https://web.stanford.edu/class/cs25/prev_years/2021_fall/)
 - [ ] 📖 [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://arxiv.org/abs/1701.00854)
+- [ ] 📖 [Software Engineering at Google](https://abseil.io/resources/swe-book)
 - [ ] 📄 [Literate Programming](http://www.literateprogramming.com/knuthweb.pdf) (Knuth, 1984)
   - [ ] 🔗 [literateprogramming.com](http://www.literateprogramming.com)
 - [ ] 📄 [What Every Computer Scientist Should. Know About Floating-Point
