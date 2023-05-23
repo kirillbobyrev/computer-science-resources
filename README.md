@@ -34,7 +34,7 @@ Compilation of Computer Science courses, books, blog posts and videos.
 
 ## Distributed Systems
 
-- [ ] 🎥 [MIT Distribtued
+- [ ] 🎥 [MIT Distributed
   Systems](https://pdos.csail.mit.edu/6.824/schedule.html) (Spring 2022)
 - [ ] 🎥 [Distributed Systems lecture series from
   Cambridge](https://youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
@@ -73,7 +73,6 @@ Compilation of Computer Science courses, books, blog posts and videos.
 - [ ] 📄 [CAP Twelve Years Later: How the "Rules" Have Changed](https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf) (2012)
 - [ ] 📄 [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf) ("The Raft Paper", 2014)
   - [ ] 🔗 [raft.github.io](https://raft.github.io/raft.pdf)
-- [ ] 🔗 [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ## Databases
 
@@ -116,7 +115,7 @@ Compilation of Computer Science courses, books, blog posts and videos.
 
 ### C++
 
-- [ ] 📖 Effective C++ series by Scott Meyers
+- [ ] "Effective C++" series by Scott Meyers
   - [ ] 📖 [Effective
     C++](https://www.goodreads.com/book/show/105125.Effective_C_)
   - [ ] 📖 [More Effective
@@ -125,9 +124,6 @@ Compilation of Computer Science courses, books, blog posts and videos.
     and C++14](https://www.goodreads.com/book/show/22800553-effective-modern-c)
   - [ ] 📖 [Effective STL: 50 Specific Ways to Improve Your Use of the Standard
     Template Library](https://www.goodreads.com/book/show/105124.Effective_STL)
-- [ ] 📖 [The C++ Programming
-  Language](https://www.goodreads.com/book/show/18224769-the-c-programming-language)
-  (Stroustrup, 2013)
 
 ### Functional Programming
 
@@ -195,6 +191,7 @@ Compilation of Computer Science courses, books, blog posts and videos.
 
 ### Networking
 
+- [ ] 📖 [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
 - [ ] 🎥 + 📖 [Computer Networking: A Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
   (2019)
 - [ ] 📖 [The Protocols (TCP/IP

@@ -24,16 +24,6 @@ Engineering are.
 
 - [ ] 📖 [Competitive Programmer's
   Handbook](https://www.goodreads.com/book/show/34861344-competitive-programmer-s-handbook)
-- [ ] 🔗 [NEERC IFMO
-  Wiki](http://neerc.ifmo.ru/wiki/index.php?title=%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B_%D0%B8_%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85):
-  comprehensive overview of important algorithms by one of the most successful
-  Russian universities (multiple times ACM ICPC winners), in Russian
-- [ ] 🔗 [The Ultimate Topic List (with Resources, Problems and
-  Templates)](https://codeforces.com/blog/entry/95106)
-- [ ] 🔗 [I compiled a list of almost all useful blogs ever published on
-  Codeforces](https://codeforces.com/blog/entry/91363)
-- [ ] 🔗 [Geeks for Geeks large algorithm
-  list](https://www.geeksforgeeks.org/fundamentals-of-algorithms)
 
 ## Systems Programming (Operating Systems, Low-Level Primitives, Hardware)
 
@@ -41,7 +31,6 @@ Engineering are.
 - [ ] 📄 [What every programmer should know about
   memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) (Paper
   and [LWN post series](https://lwn.net/Articles/250967), 2007)
-- [ ] 📄 [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
 - [ ] 🔗 [Computer Networking Introduction - Ethernet and IP (Heavily
   Illustrated)](https://iximiuz.com/en/posts/computer-networking-101/)
 - [ ] 🔗 [Writing an OS in Rust](https://os.phil-opp.com/)
@@ -70,27 +59,6 @@ Engineering are.
   compositionality](https://proceedings.neurips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf)
   ("Word2Vec Paper", 2013)
 
-### Reinforcement Learning
-
-- [ ] 🎥 [Coursera Reinforcement Learning
-  Specialization](https://www.coursera.org/specializations/reinforcement-learning)
-  (University of Alberta and DeepMind, accompanies Sutton's book)
-- [ ] 🎥 [Berkeley RL Course + assignments](http://rail.eecs.berkeley.edu/deeprlcourse/)
-
-### Self-Driving Cars
-
-- [ ] 🎥 [Coursera Self Driving Cars
-  specialization](https://www.coursera.org/specializations/self-driving-cars)
-  (University of Toronto)
-- [ ] 📄 [Waymo Safety Report](https://storage.googleapis.com/waymo-uploads/files/documents/safety/2021-12-waymo-safety-report.pdf)
-- [ ] 📄 [Scalability in Perception for Autonomous Driving: Waymo Open
-  Dataset](https://arxiv.org/abs/1912.04838)
-- [ ] 📄 [ChauffeurNet: Learning to Drive by Imitating the Best and Synthesizing
-  the Worst](https://arxiv.org/abs/1812.03079)
-- [ ] 📄 [Sim2Real Predictivity: Does Evaluation in Simulation Predict Real-World Performance?](https://arxiv.org/abs/1912.06321)
-- [ ] 📄 [A Survey of Autonomous Driving: Common Practices and Emerging Technologies](https://arxiv.org/abs/1906.05113)
-- [ ] 📄 [AirSim: High-Fidelity Visual and Physical Simulation for Autonomous Vehicles](https://arxiv.org/abs/1705.05065v2)
-
 ## Miscellaneous
 
 - [ ] 🎥 [Computation
@@ -107,6 +75,10 @@ Engineering are.
 - [ ] 🎥 [Transformers United](https://web.stanford.edu/class/cs25/prev_years/2021_fall/)
 - [ ] 📖 [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://arxiv.org/abs/1701.00854)
 - [ ] 📖 [Software Engineering at Google](https://abseil.io/resources/swe-book)
+- [ ] 📖 System Design by Alex Xu
+  - [ ] [Part 1](https://www.goodreads.com/book/show/54109255-system-design-interview-an-insider-s-guide)
+  - [ ] [Part 2](https://www.goodreads.com/book/show/60631342-system-design-interview-an-insider-s-guide)
+- [ ] 📖 [Game Programming Patterns](https://gameprogrammingpatterns.com/)
 - [ ] 📄 [Literate Programming](http://www.literateprogramming.com/knuthweb.pdf) (Knuth, 1984)
   - [ ] 🔗 [literateprogramming.com](http://www.literateprogramming.com)
 - [ ] 📄 [What Every Computer Scientist Should. Know About Floating-Point
@@ -143,6 +115,7 @@ Engineering are.
 - [ ] 🎥 [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
 - [ ] 🎥 [The Golden Age of Compiler Design in an Era of HW/SW Co-design](https://youtu.be/4HgShra-KnY) (Chris Lattner)
 - [ ] 🎥 [The Soul of a New Machine: Rethinking the Computer](https://youtu.be/vvZA9n3e5pc)
+- [x] 🎥 [Data-Oriented Design and C++](https://youtu.be/rX0ItVEVjHc)
 
 ## Other
 
