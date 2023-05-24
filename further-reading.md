@@ -10,14 +10,8 @@ Engineering are.
 - [ ] 🎥 [Algorithms and Data Structures courses at
   IFMO](https://youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4)
   (2020-2021)
-- [ ] 🎥 [Graph Theory and Additive
-  Combinatorics](https://youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX)
-  (2019)
 - [ ] 🎥 [MIT Advanced Data Structures](https://courses.csail.mit.edu/6.851/spring21/) (2021)
-- [ ] 🎥 [MIT Advanced Algorithms](https://www.youtube.com/watch?v=hM547xRIdzc&list=PL6ogFv-ieghdoGKGg2Bik3Gl1glBTEu8c) (and newer [offering](https://courses.csail.mit.edu/6.854/21/))
 - [ ] 📖 [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/) (2022, Work in Progress)
-- [ ] 📄 [R-trees: a dynamic index structure for spatial
-  searching](http://www-db.deis.unibo.it/courses/SI-LS/papers/Gut84.pdf) (1984)
 - [ ] 🔗 [An introduction to lockless algorithms](https://lwn.net/Articles/844224/)
 
 ### Competitive Programming
