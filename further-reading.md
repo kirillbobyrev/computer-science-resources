@@ -62,7 +62,6 @@ Engineering are.
 - [x] 🎥 [Blockchain and Money](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/) (MIT, 2018)
   - [x] 📄 [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) (Satoshi Nakomoto, 2008)
 - [ ] 🎥 [CS 253 Web Security](https://youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-) + [readings](https://web.stanford.edu/class/cs253/) (Stanford)
-- [ ] 🎥 [Great Ideas in Computer Architecture (Machine Structures)](https://inst.eecs.berkeley.edu/~cs61c/su20/) (Berkeley, 2020)
 - [ ] 🎥 [Real-Time Delivery Architecture at Twitter](https://www.infoq.com/presentations/Real-Time-Delivery-Twitter/)
 - [ ] 🎥 [The Fourier Transform and its Applications](https://see.stanford.edu/course/ee261)
 - [ ] 🎥 [Cryptography](https://www.coursera.org/learn/crypto) and [Cryptography 2](https://www.coursera.org/learn/crypto2) (Stanford, Coursera)
@@ -110,6 +109,7 @@ Engineering are.
 - [ ] 🎥 [The Golden Age of Compiler Design in an Era of HW/SW Co-design](https://youtu.be/4HgShra-KnY) (Chris Lattner)
 - [ ] 🎥 [The Soul of a New Machine: Rethinking the Computer](https://youtu.be/vvZA9n3e5pc)
 - [x] 🎥 [Data-Oriented Design and C++](https://youtu.be/rX0ItVEVjHc)
+- [x] 🎥 [Spectre: Secrets, Side-Channels, Sandboxes, and Security](https://youtu.be/_f7O3IfIR2k)
 
 ## Other
 

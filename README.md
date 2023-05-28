@@ -152,26 +152,24 @@ Compilation of Computer Science courses, books, blog posts and videos.
 
 ## Systems Programming (Operating Systems, Low-Level Primitives, Hardware)
 
+- Onur Mutlu ETH Zurich courses
+  - [ ] 🎥 [Digital Design & Computer Architecture](https://safari.ethz.ch/digitaltechnik/spring2022/doku.php?id=start) (2023)
+  - [ ] 🎥 [Computer Architecture](https://safari.ethz.ch/architecture/fall2022/doku.php) (2022)
 - [ ] 🎥 [MIT's Operating System
   Engineering](https://pdos.csail.mit.edu/6.S081/2022/schedule.html)
 - [ ] 🎥 [Computation Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/)
-- [ ] 🎥 [Introduction to Operating Systems](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/)
-- [ ] 🎥 "From NAND to Tetris" on Coursera
-  - [ ] [Part 1](https://www.coursera.org/learn/build-a-computer)
-  - [ ] [Part 2](https://www.coursera.org/learn/nand2tetris2)
+- [ ] 📖 [Computer Architecture: A Quantitative Approach](https://www.goodreads.com/book/show/70135.Computer_Architecture)
+- [ ] 📖 [Modern Operating
+  Systems](https://www.goodreads.com/book/show/166195.Modern_Operating_Systems)
+  by Tanenbaum (2001)
 - [ ] 📖 [The UNIX TimeSharing System](https://dsf.berkeley.edu/cs262/unix.pdf)
 - [ ] 📖 [Computer
   Architecture](https://www.goodreads.com/book/show/70135.Computer_Architecture)
   (Hennessy and Patterson, 2006)
-- [ ] 📖 [Modern Operating
-  Systems](https://www.goodreads.com/book/show/166195.Modern_Operating_Systems)
-  by Tanenbaum (2001)
 - [ ] 📖 [Reverse Engineering for
   Beginners](https://www.goodreads.com/book/show/25391593-reverse-engineering-for-beginners)
   - [ ] 🔗 [Book website](https://beginners.re/)
   - [ ] 🔗 [Challenges](https://challenges.re/)
-- [ ] 📖 [The Little Book of
-  Semaphores](https://www.goodreads.com/book/show/6965200-the-little-book-of-semaphores)
 - [ ] 📖 [The UNIX Programming
   Environment](https://www.goodreads.com/book/show/337338.The_UNIX_Programming_Environment)
   (Kernighan, Rob Pike)
@@ -203,7 +201,7 @@ Compilation of Computer Science courses, books, blog posts and videos.
   Processing](https://youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
   (Chris Manning at Stanford, 2019)
 - [ ] 📖 [Deep
-  Learning](https://www.goodreads.com/book/show/24072897-deep-learning) (Ian
+  Learning](https://www.goodreads.com/book/show/24072897-deep-learning) (Ia🎥 n
   Goodfellow, Yoshua Bengio, 2016)
 - [ ] 📖 [Introduction to Information
   Retrieval](https://www.goodreads.com/book/show/3278309-introduction-to-information-retrieval)
