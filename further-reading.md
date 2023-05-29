@@ -10,7 +10,6 @@ Engineering are.
 - [ ] 🎥 [Algorithms and Data Structures courses at
   IFMO](https://youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4)
   (2020-2021)
-- [ ] 🎥 [MIT Advanced Data Structures](https://courses.csail.mit.edu/6.851/spring21/) (2021)
 - [ ] 📖 [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/) (2022, Work in Progress)
 - [ ] 🔗 [An introduction to lockless algorithms](https://lwn.net/Articles/844224/)
 
@@ -39,33 +38,15 @@ Engineering are.
 - [ ] 📄 [Spanner, TrueTime & The CAP
   Theorem](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45855.pdf)
   (2017)
-- [ ] 🔗 [Designs, Lessons and Advice from Building Large Distributed
-  Systems](https://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf)
-  (Jeffrey Dean, 2009)
-
-## Machine Learning
-
-- [ ] 🎥 [TinyML and Efficient Deep Learning](https://efficientml.ai/) (MIT,
-  2022)
-- [ ] 🎥 [Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/)
-  (Stanford, 2022)
-- [ ] 📄 [Distributed representations of words and phrases and their
-  compositionality](https://proceedings.neurips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf)
-  ("Word2Vec Paper", 2013)
 
 ## Miscellaneous
 
-- [ ] 🎥 [Computation
-  Structures](https://youtube.com/playlist?list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2)
 - [ ] 🎥 [YCombinator Startup School curriculum](https://www.startupschool.org)
   (MIT, Spring 2017)
 - [x] 🎥 [Blockchain and Money](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/) (MIT, 2018)
   - [x] 📄 [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) (Satoshi Nakomoto, 2008)
 - [ ] 🎥 [CS 253 Web Security](https://youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-) + [readings](https://web.stanford.edu/class/cs253/) (Stanford)
-- [ ] 🎥 [Real-Time Delivery Architecture at Twitter](https://www.infoq.com/presentations/Real-Time-Delivery-Twitter/)
-- [ ] 🎥 [The Fourier Transform and its Applications](https://see.stanford.edu/course/ee261)
 - [ ] 🎥 [Cryptography](https://www.coursera.org/learn/crypto) and [Cryptography 2](https://www.coursera.org/learn/crypto2) (Stanford, Coursera)
-- [ ] 🎥 [Transformers United](https://web.stanford.edu/class/cs25/prev_years/2021_fall/)
 - [ ] 📖 [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://arxiv.org/abs/1701.00854)
 - [ ] 📖 [Software Engineering at Google](https://abseil.io/resources/swe-book)
 - [ ] 📖 System Design by Alex Xu
@@ -90,10 +71,7 @@ Engineering are.
   (2013)
 - [ ] 🔗 [Deadlock Empire](https://deadlockempire.github.io/) - a set of
   exercise on concurrent programming
-- [ ] 🔗 [chidb tutorial](http://chi.cs.uchicago.edu/chidb/index.html)
 - [ ] 🔗 [Coding for SSDs](https://codecapsule.com/2014/02/12/coding-for-ssds-part-1-introduction-and-table-of-contents/)
-- [ ] 🔗 [CaskDB - (educational) build your own disk based KV store](https://github.com/avinassh/py-caskdb)
-- [ ] 🔗 [The Modern Algorithmic Toolbox course materials](https://web.stanford.edu/class/cs168/index.html) (Stanford, 2022)
 - [ ] 🔗 [Roaring Bitmaps](https://roaringbitmap.org/about/)
 - [x] 🔗 [CS 007: Personal Finance for Engineers](https://cs007.blog/)
 - [ ] 🔗 [CRDT](https://crdt.tech/) + [Conflict-free Replicated Data Types: An Overview](https://arxiv.org/abs/1806.10254)
@@ -105,6 +83,7 @@ Engineering are.
 
 - [ ] 🎥 [A day in the life of a Netflix engineer](https://www.youtube.com/watch?v=0QS1TWLooo0)
 - [ ] 🎥 [Microservices at Netflix Scale: Principles, Tradeoffs & Lessons Learned](https://www.youtube.com/watch?v=57UK46qfBLY)
+- [ ] 🎥 [Real-Time Delivery Architecture at Twitter](https://www.infoq.com/presentations/Real-Time-Delivery-Twitter/)
 - [ ] 🎥 [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
 - [ ] 🎥 [The Golden Age of Compiler Design in an Era of HW/SW Co-design](https://youtu.be/4HgShra-KnY) (Chris Lattner)
 - [ ] 🎥 [The Soul of a New Machine: Rethinking the Computer](https://youtu.be/vvZA9n3e5pc)

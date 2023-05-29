@@ -36,9 +36,6 @@ Compilation of Computer Science courses, books, blog posts and videos.
 
 - [ ] 🎥 [MIT Distributed
   Systems](https://pdos.csail.mit.edu/6.824/schedule.html) (Spring 2022)
-- [ ] 🎥 [Distributed Systems lecture series from
-  Cambridge](https://youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
-  (shorter videos with the core concepts, 2020)
 - [ ] 🎥 [Paxos & TLA+ Turing Award
   lectures](https://lamport.azurewebsites.net/tla/paxos-algorithm.html)
   (shorter videos with the core concepts, 2020)
@@ -90,11 +87,6 @@ Compilation of Computer Science courses, books, blog posts and videos.
 - [ ] 📖 [Designing Data Intensive
   Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)
   (2015)
-- [ ] 📖 [Architecture of a Database
-  System](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf) (2017)
-- [ ] 📖 [Readings in Database
-  Systems](https://www.goodreads.com/book/show/1130477.Readings_in_Database_Systems)
-  (_"The Red Book"_)
 - [ ] 📄 [A Case for Redundant Arrays of Inexpensive Disks
   (RAID)](http://web.mit.edu/6.033/2015/wwwdocs/papers/Patterson88.pdf)
   (Patterson, 1988)
@@ -129,21 +121,12 @@ Compilation of Computer Science courses, books, blog posts and videos.
 
 - [ ] 📖 [Haskell Programming from first principles](https://haskellbook.com)
   (2018)
-- [ ] 📖 [Category Theory for
-  Programmers](https://www.goodreads.com/book/show/33618151-category-theory-for-programmers)
-  (2018)
 
 ### Rust
 
 - [x] 📖 [The Rust Programming Language](https://doc.rust-lang.org/book/) &mdash; the official Rust introduction book
 - [x] 🔗 [rustlings](https://github.com/rust-lang/rustlings) (a set of exercises
   for learning Rust)
-
-### Go
-
-- [ ] 📖 [The Go Programming
-  Language](https://www.goodreads.com/book/show/25080953-the-go-programming-language)
-  (2015)
 
 ### Python
 
@@ -157,15 +140,11 @@ Compilation of Computer Science courses, books, blog posts and videos.
   - [ ] 🎥 [Computer Architecture](https://safari.ethz.ch/architecture/fall2022/doku.php) (2022)
 - [ ] 🎥 [MIT's Operating System
   Engineering](https://pdos.csail.mit.edu/6.S081/2022/schedule.html)
-- [ ] 🎥 [Computation Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/)
 - [ ] 📖 [Computer Architecture: A Quantitative Approach](https://www.goodreads.com/book/show/70135.Computer_Architecture)
 - [ ] 📖 [Modern Operating
   Systems](https://www.goodreads.com/book/show/166195.Modern_Operating_Systems)
   by Tanenbaum (2001)
 - [ ] 📖 [The UNIX TimeSharing System](https://dsf.berkeley.edu/cs262/unix.pdf)
-- [ ] 📖 [Computer
-  Architecture](https://www.goodreads.com/book/show/70135.Computer_Architecture)
-  (Hennessy and Patterson, 2006)
 - [ ] 📖 [Reverse Engineering for
   Beginners](https://www.goodreads.com/book/show/25391593-reverse-engineering-for-beginners)
   - [ ] 🔗 [Book website](https://beginners.re/)
@@ -176,7 +155,6 @@ Compilation of Computer Science courses, books, blog posts and videos.
 
 ### Compilers
 
-- [ ] 🎥 [CS 6120: Advanced Compilers γ](https://www.cs.cornell.edu/courses/cs6120/2020fa/) (Cornell University, 2020)
 - [ ] 📖 [Crafting
   Interpreters](https://www.goodreads.com/book/show/58661468-crafting-interpreters)
   (2021)
