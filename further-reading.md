@@ -8,7 +8,7 @@ Engineering are.
 ## Algorithms and Data Structures
 
 - [ ] 🎥 [Algorithms and Data Structures courses at IFMO](https://youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4) (2020-2021)
-- [ ] 📖 [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/) (2022, Work in Progress)
+- [ ] 📖 [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/) (2023, Work in Progress)
 - [ ] 🔗 [An introduction to lockless algorithms](https://lwn.net/Articles/844224/)
 
 ### Competitive Programming

@@ -19,7 +19,7 @@ Compilation of Computer Science courses, books, blog posts and videos.
   - [ ] [Volume 3 – Sorting and Searching](https://www.goodreads.com/book/show/363999.The_Art_of_Computer_Programming)
   - [ ] [Volume 4A – Combinatorial Algorithms, Part 1](https://www.goodreads.com/book/show/9412211-the-art-of-computer-programming-volume-4a)
 - [ ] 🔗 [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
-- [ ] 🔗 [CP-Algorithms](https://cp-algorithms.com/index.html) &mdash; a translation of [e-maxx](http://e-maxx.ru/) (a Russian resource on Competitive Programming algorithms)
+- [ ] 🔗 [CP-Algorithms](https://cp-algorithms.com/index.html)
 
 ## Distributed Systems
 
@@ -43,11 +43,8 @@ Compilation of Computer Science courses, books, blog posts and videos.
 ## Databases
 
 - [ ] 🎥 CMU Database courses
-  - [ ] [Andy Pavlo's Intro to Database Systems](https://15445.courses.cs.cmu.edu/fall2022/), (2022, lectures + assignments)
-  - [ ] [Andy Pavlo's Advanced Database Systems](https://youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O) (2020, lectures + assignments)
-  - [ ] [Quarantine Database Talks](https://db.cs.cmu.edu/seminar2020/) (2020)
-  - [ ] [Vaccination Database Talks](https://db.cs.cmu.edu/seminar2021/) (2021)
-  - [ ] [Vaccination Database Talks: Second Dose](https://db.cs.cmu.edu/seminar2021-dose2/) (2021)
+  - [ ] [Intro to Database Systems](https://15445.courses.cs.cmu.edu/fall2022/), (Andy Pavlo, 2022, lectures + assignments)
+  - [ ] [Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2023/) (Andy Pavlo, 2023, lectures + assignments)
 - [ ] 📖 [Designing Data Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) (2015)
 - [ ] 📄 [A Case for Redundant Arrays of Inexpensive Disks (RAID)](http://web.mit.edu/6.033/2015/wwwdocs/papers/Patterson88.pdf) (Patterson, 1988)
 - [ ] 📄 [Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf) (_"The Bigtable Paper"_, 2006)
@@ -80,9 +77,7 @@ Compilation of Computer Science courses, books, blog posts and videos.
 
 ## Systems Programming (Operating Systems, Low-Level Primitives, Hardware)
 
-- Onur Mutlu ETH Zurich courses
-  - [ ] 🎥 [Digital Design & Computer Architecture](https://safari.ethz.ch/digitaltechnik/spring2022/doku.php?id=start) (2023)
-  - [ ] 🎥 [Computer Architecture](https://safari.ethz.ch/architecture/fall2022/doku.php) (2022)
+- [ ] 🎥 [Digital Design & Computer Architecture](https://safari.ethz.ch/digitaltechnik/spring2022/doku.php?id=start) (Onuer Mutlu, ETH Zurich, 2023)
 - [ ] 🎥 [MIT's Operating System Engineering](https://pdos.csail.mit.edu/6.S081/2022/schedule.html)
 - [ ] 📖 [Computer Architecture: A Quantitative Approach](https://www.goodreads.com/book/show/70135.Computer_Architecture)
 - [ ] 📖 [Modern Operating Systems](https://www.goodreads.com/book/show/166195.Modern_Operating_Systems) (Tanenbaum, 2001)
