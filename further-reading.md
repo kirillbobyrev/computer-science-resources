@@ -17,6 +17,7 @@ Engineering are.
 
 ## Systems Programming (Operating Systems, Low-Level Primitives, Hardware)
 
+- [ ] 🎥 [Heterogeneous Systems](https://safari.ethz.ch/projects_and_seminars/spring2023/doku.php?id=heterogeneous_systems) (ETH Zurich, 2023)
 - [ ] 🎥 [Build a 6502 computer](https://eater.net/6502)
 - [ ] 📄 [What every programmer should know about memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) (Paper and [LWN post series](https://lwn.net/Articles/250967), 2007)
 - [ ] 🔗 [Computer Networking Introduction - Ethernet and IP (Heavily Illustrated)](https://iximiuz.com/en/posts/computer-networking-101/)

@@ -77,7 +77,7 @@ Compilation of Computer Science courses, books, blog posts and videos.
 
 ## Systems Programming (Operating Systems, Low-Level Primitives, Hardware)
 
-- [ ] 🎥 [Digital Design & Computer Architecture](https://safari.ethz.ch/digitaltechnik/spring2022/doku.php?id=start) (Onuer Mutlu, ETH Zurich, 2023)
+- [ ] 🎥 [Digital Design & Computer Architecture](https://safari.ethz.ch/digitaltechnik/spring2022/doku.php?id=start) (Onur Mutlu, ETH Zurich, 2023)
 - [ ] 🎥 [MIT's Operating System Engineering](https://pdos.csail.mit.edu/6.S081/2022/schedule.html)
 - [ ] 📖 [Computer Architecture: A Quantitative Approach](https://www.goodreads.com/book/show/70135.Computer_Architecture)
 - [ ] 📖 [Modern Operating Systems](https://www.goodreads.com/book/show/166195.Modern_Operating_Systems) (Tanenbaum, 2001)
@@ -95,9 +95,7 @@ Compilation of Computer Science courses, books, blog posts and videos.
 
 ### Networking
 
-- [ ] [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking)
-- [ ] 🎥 + 📖 [Computer Networking: A Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) (2019)
-- [ ] 📖 [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
+- [ ] 📖 [Computer Networks](https://goodreads.com/book/show/166190.Computer_Networks) (Tanenbaum, 2021)
 - [ ] 📖 [The Protocols (TCP/IP Illustrated)](https://www.goodreads.com/book/show/505560.The_Protocols) (1993)
 
 ## Machine Learning
