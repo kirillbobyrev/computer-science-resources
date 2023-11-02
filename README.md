@@ -77,7 +77,6 @@ Compilation of Computer Science courses, books, blog posts and videos.
 
 ## Systems Programming (Operating Systems, Low-Level Primitives, Hardware)
 
-- [ ] 🎥 [Digital Design & Computer Architecture](https://safari.ethz.ch/digitaltechnik/spring2022/doku.php?id=start) (Onur Mutlu, ETH Zurich, 2023)
 - [ ] 🎥 [MIT's Operating System Engineering](https://pdos.csail.mit.edu/6.S081/2022/schedule.html)
 - [ ] 📖 [Computer Architecture: A Quantitative Approach](https://www.goodreads.com/book/show/70135.Computer_Architecture)
 - [ ] 📖 [Modern Operating Systems](https://www.goodreads.com/book/show/166195.Modern_Operating_Systems) (Tanenbaum, 2001)
