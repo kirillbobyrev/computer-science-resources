@@ -23,7 +23,7 @@ Compilation of Computer Science courses, books, blog posts and videos.
 
 ## Distributed Systems
 
-- [ ] 🎥 [MIT Distributed Systems](https://pdos.csail.mit.edu/6.824/schedule.html) (Spring 2022)
+- [ ] 🎥 [MIT Distributed Systems](https://pdos.csail.mit.edu/6.824/schedule.html) (Spring 2023)
 - [ ] 🎥 [Paxos & TLA+ Turing Award lectures](https://lamport.azurewebsites.net/tla/paxos-algorithm.html) (shorter videos with the core concepts, 2020)
 - [ ] 📄 [The Anatomy of a Large-Scale Hypertextual Web Search Engine](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/334.pdf) ("The Google Paper", Brin, Page, 1998)
 - [ ] 📄 [The Google Filesystem](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf) (2003)
@@ -43,7 +43,7 @@ Compilation of Computer Science courses, books, blog posts and videos.
 ## Databases
 
 - [ ] 🎥 CMU Database courses
-  - [ ] [Intro to Database Systems](https://15445.courses.cs.cmu.edu/fall2023/), (Andy Pavlo, 2022, lectures + assignments)
+  - [ ] [Intro to Database Systems](https://15445.courses.cs.cmu.edu/fall2023/), (Andy Pavlo, 2023, lectures + assignments)
   - [ ] [Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2023/) (Andy Pavlo, 2023, lectures + assignments)
 - [ ] 📖 [Designing Data Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) (2015)
 - [ ] 📄 [A Case for Redundant Arrays of Inexpensive Disks (RAID)](http://web.mit.edu/6.033/2015/wwwdocs/papers/Patterson88.pdf) (Patterson, 1988)
