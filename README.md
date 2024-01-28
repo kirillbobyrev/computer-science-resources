@@ -94,6 +94,7 @@ Compilation of Computer Science courses, books, blog posts and videos.
 
 ### Networking
 
+- [ ] 🎥 + 📖 [Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
 - [ ] 📖 [Computer Networks](https://goodreads.com/book/show/166190.Computer_Networks) (Tanenbaum, 2021)
 - [ ] 📖 [The Protocols (TCP/IP Illustrated)](https://www.goodreads.com/book/show/505560.The_Protocols) (1993)
 
