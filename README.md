@@ -12,13 +12,13 @@ Compilation of Computer Science courses, books, blog posts and videos.
 ## Algorithms and Data Structures
 
 - [ ] 📖 [Introduction to Algorithms](https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms) (_"CLRS"_ &mdash; Cormen, Leiserson, Rivest, Stein, 2001)
+  - [ ] 🎥 [Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) (course with assignments and solutions)
 - [ ] 📖 [The Algorithm Design Manual](https://www.algorist.com/) (Skienna, 2020)
 - [ ] 📖 [The Art of Computer Programming](https://www-cs-faculty.stanford.edu/~knuth/taocp.html) (Donald Knuth)
   - [ ] [Volume 1 – Fundamental Algorithms](https://www.goodreads.com/book/show/112247.The_Art_of_Computer_Programming_Volume_1)
   - [ ] [Volume 2 – Seminumerical Algorithms](https://www.goodreads.com/book/show/112246.The_Art_of_Computer_Programming_Volume_2)
   - [ ] [Volume 3 – Sorting and Searching](https://www.goodreads.com/book/show/363999.The_Art_of_Computer_Programming)
   - [ ] [Volume 4A – Combinatorial Algorithms, Part 1](https://www.goodreads.com/book/show/9412211-the-art-of-computer-programming-volume-4a)
-- [ ] 🔗 [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 - [ ] 🔗 [CP-Algorithms](https://cp-algorithms.com/index.html)
 
 ## Distributed Systems
