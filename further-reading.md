@@ -29,6 +29,13 @@ Engineering are.
 - [ ] 📄 [Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications](https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf) (2001)
 - [ ] 📄 [Spanner, TrueTime & The CAP Theorem](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45855.pdf) (2017)
 
+## Machine Learning
+
+- [ ] 🎥 [TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2023-fall-65940) (2023, MIT)
+- [ ] 🎥 [Transformers United](https://web.stanford.edu/class/cs25/prev_years/2021_fall/) (2021, Stanford)
+- [ ] 🎥 [Machine Learning with Graphs](https://snap.stanford.edu/class/cs224w-2021/) + [lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rOP-ImU-O1rYRg2RFxomvFp) (2021, Stanford)
+- [ ] 🎥 [Deep Generative Systems](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8) (Fall 2023, Stanford)
+
 ## Miscellaneous
 
 - [ ] 🎥 [YCombinator Startup School curriculum](https://www.startupschool.org) (MIT, Spring 2017)
@@ -36,9 +43,6 @@ Engineering are.
   - [x] 📄 [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) (Satoshi Nakomoto, 2008)
 - [ ] 🎥 [CS 253 Web Security](https://youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-) + [readings](https://web.stanford.edu/class/cs253/) (Stanford)
 - [ ] 🎥 [Cryptography](https://www.coursera.org/learn/crypto) and [Cryptography 2](https://www.coursera.org/learn/crypto2) (Stanford, Coursera)
-- [ ] 🎥 [TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2023-fall-65940)
-- [ ] 🎥 [Transformers United](https://web.stanford.edu/class/cs25/prev_years/2021_fall/)
-- [ ] 🎥 [Machine Learning with Graphs](https://snap.stanford.edu/class/cs224w-2021/) + [lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rOP-ImU-O1rYRg2RFxomvFp)
 - [ ] 📖 [The Linux Programming Interface](https://www.goodreads.com/en/book/show/7672214)
 - [ ] 📖 [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://arxiv.org/abs/1701.00854)
 - [ ] 📖 [Software Engineering at Google](https://abseil.io/resources/swe-book)
