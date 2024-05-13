@@ -8,6 +8,9 @@ Compilation of Computer Science courses, books, blog posts and videos.
 - [_**Further Reading**_](/further-reading.md) - short blog posts, articles
   from the internet, more specific resources. Less fundamental, more practical
   (and typically up-to-date).
+- [_**Machine Learning**_](/machine-learning.md) - everything related to Machine
+  Learning and its domains (Natural Language Processing, Reinforcement Learning,
+  Computer Vision, etc).
 
 ## Algorithms and Data Structures
 
@@ -97,12 +100,6 @@ Compilation of Computer Science courses, books, blog posts and videos.
 - [ ] 🎥 + 📖 [Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
 - [ ] 📖 [Computer Networks](https://goodreads.com/book/show/166190.Computer_Networks) (Tanenbaum, 2021)
 - [ ] 📖 [The Protocols (TCP/IP Illustrated)](https://www.goodreads.com/book/show/505560.The_Protocols) (1993)
-
-## Machine Learning
-
-- [ ] 🎥 [Natural Language Processing](https://youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) (Chris Manning at Stanford, 2019)
-- [ ] 📖 [Deep Learning](https://www.goodreads.com/book/show/24072897-deep-learning) (Ian Goodfellow, Yoshua Bengio, 2016)
-- [ ] 📖 [Introduction to Information Retrieval](https://www.goodreads.com/book/show/3278309-introduction-to-information-retrieval) (Chris Manning, 2008)
 
 ## Miscellaneous
 

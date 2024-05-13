@@ -29,13 +29,6 @@ Engineering are.
 - [ ] 📄 [Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications](https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf) (2001)
 - [ ] 📄 [Spanner, TrueTime & The CAP Theorem](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45855.pdf) (2017)
 
-## Machine Learning
-
-- [ ] 🎥 [TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2023-fall-65940) (2023, MIT)
-- [ ] 🎥 [Transformers United](https://web.stanford.edu/class/cs25/prev_years/2021_fall/) (2021, Stanford)
-- [ ] 🎥 [Machine Learning with Graphs](https://snap.stanford.edu/class/cs224w-2021/) + [lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rOP-ImU-O1rYRg2RFxomvFp) (2021, Stanford)
-- [ ] 🎥 [Deep Generative Systems](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8) (Fall 2023, Stanford)
-
 ## Miscellaneous
 
 - [ ] 🎥 [YCombinator Startup School curriculum](https://www.startupschool.org) (MIT, Spring 2017)
