@@ -7,6 +7,7 @@
 
 ## 🎥 Courses
 
+- [ ] [Deep Learning Specialization](https://www.deeplearning.ai/courses/deep-learning-specialization/) (Coursera, DeepLearning.ai)
 - [ ] [Natural Language Processing](https://youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) (Chris Manning at Stanford, 2019)
 - [ ] [TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2023-fall-65940) (2023, MIT)
 - [ ] [Transformers United](https://web.stanford.edu/class/cs25/) (2024, Stanford)
