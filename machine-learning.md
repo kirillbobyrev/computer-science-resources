@@ -2,7 +2,7 @@
 
 ## 📖 Books
 
-- [ ] [Deep Learning](https://www.goodreads.com/book/show/24072897-deep-learning) (Ian Goodfellow, Yoshua Bengio, 2016)
+- [ ] [Deep Learning Foundations and Concepts](https://www.bishopbook.com/) (Christopher Bishop, High Bishop, 2023)
 - [ ] [Introduction to Information Retrieval](https://www.goodreads.com/book/show/3278309-introduction-to-information-retrieval) (Chris Manning, 2008)
 
 ## 🎥 Courses
