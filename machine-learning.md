@@ -18,3 +18,7 @@
 
 - [ ] [A decoder-only foundation model for time-series forecasting](https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/)
   (_TimesFM_, 2024)
+
+## Misc
+
+- [ ] [Andrej Karpathy video lectures](https://www.youtube.com/@AndrejKarpathy/videos)
