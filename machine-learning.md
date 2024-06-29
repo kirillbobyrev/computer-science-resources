@@ -2,7 +2,7 @@
 
 ## 📖 Books
 
-- [ ] [Deep Learning Foundations and Concepts](https://www.bishopbook.com/) (Christopher Bishop, High Bishop, 2023)
+- [ ] [Deep Learning Foundations and Concepts](https://www.bishopbook.com/) (Christopher Bishop, Hugh Bishop, 2023)
 - [ ] [Introduction to Information Retrieval](https://www.goodreads.com/book/show/3278309-introduction-to-information-retrieval) (Chris Manning, 2008)
 
 ## 🎥 Courses
