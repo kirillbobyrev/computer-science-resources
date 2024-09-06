@@ -46,7 +46,7 @@ Compilation of Computer Science courses, books, blog posts and videos.
 ## Databases
 
 - [ ] 🎥 CMU Database courses
-  - [ ] [Intro to Database Systems](https://15445.courses.cs.cmu.edu/fall2023/), (Andy Pavlo, 2023, lectures + assignments)
+  - [ ] [Intro to Database Systems](https://15445.courses.cs.cmu.edu/fall2024/), (Andy Pavlo, 2024, lectures + assignments)
   - [ ] [Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2023/) (Andy Pavlo, 2023, lectures + assignments)
 - [ ] 📖 [Designing Data Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) (2015)
 - [ ] 📄 [A Case for Redundant Arrays of Inexpensive Disks (RAID)](http://web.mit.edu/6.033/2015/wwwdocs/papers/Patterson88.pdf) (Patterson, 1988)
