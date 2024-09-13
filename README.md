@@ -109,7 +109,6 @@ Compilation of Computer Science courses, books, blog posts and videos.
 - [ ] 🎥 [Machine Vision](https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/) (MIT, 2020)
 - [ ] 🎥 [Computer Systems Security](https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/) (MIT, 2014)
 - [ ] 📖 [Concrete Mathematics: A Foundation for Computer Science](https://www.goodreads.com/book/show/112243.Concrete_Mathematics) (Graham, Knuth, Patashnik, 1994)
-- [ ] 📖 [Code Complete](https://www.goodreads.com/book/show/21899045-code-complete) (2004)
 - [ ] 📖 [Domain-Driven Design](https://www.goodreads.com/book/show/179133.Domain_Driven_Design) (2003)
 - [ ] 📖 [Test-Driven Development](https://www.goodreads.com/book/show/387190.Test_Driven_Development) (2002)
 - [x] 📖 [The Pragmatic Programmer](https://www.goodreads.com/en/book/show/4099.The_Pragmatic_Programmer) (2019)
