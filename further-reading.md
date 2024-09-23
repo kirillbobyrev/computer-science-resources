@@ -8,7 +8,6 @@ Engineering are.
 ## Algorithms and Data Structures
 
 - [ ] 🎥 [Algorithms and Data Structures courses at IFMO](https://youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4) (2020-2021)
-- [ ] 📖 [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/) (2023, Work in Progress)
 - [ ] 🔗 [An introduction to lockless algorithms](https://lwn.net/Articles/844224/)
 
 ### Competitive Programming
@@ -17,7 +16,6 @@ Engineering are.
 
 ## Systems Programming (Operating Systems, Low-Level Primitives, Hardware)
 
-- [ ] 🎥 [Heterogeneous Systems](https://safari.ethz.ch/projects_and_seminars/spring2023/doku.php?id=heterogeneous_systems) (ETH Zurich, 2023)
 - [ ] 🎥 [Build a 6502 computer](https://eater.net/6502)
 - [ ] 📄 [What every programmer should know about memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) (Paper and [LWN post series](https://lwn.net/Articles/250967), 2007)
 - [ ] 🔗 [Computer Networking Introduction - Ethernet and IP (Heavily Illustrated)](https://iximiuz.com/en/posts/computer-networking-101/)
