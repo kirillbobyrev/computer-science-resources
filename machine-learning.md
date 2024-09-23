@@ -13,7 +13,6 @@
 - [ ] [Transformers United](https://web.stanford.edu/class/cs25/) (2024, Stanford)
 - [ ] [Machine Learning with Graphs](https://snap.stanford.edu/class/cs224w-2021/) + [lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rOP-ImU-O1rYRg2RFxomvFp) (2021, Stanford)
 - [ ] [Deep Generative Systems](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8) (2023, Stanford)
-- [ ] [Parallel Computing](https://gfxcourses.stanford.edu/cs149/fall23) + [Video Lectures](https://www.youtube.com/@stanfordonline/videos) (scattered on the channel, 2023, Stanford)
 
 ## Papers
 
