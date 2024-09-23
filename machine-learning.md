@@ -3,7 +3,6 @@
 ## 📖 Books
 
 - [ ] [Deep Learning Foundations and Concepts](https://www.bishopbook.com/) (Christopher Bishop, Hugh Bishop, 2023)
-- [ ] [Introduction to Information Retrieval](https://www.goodreads.com/book/show/3278309-introduction-to-information-retrieval) (Chris Manning, 2008)
 
 ## 🎥 Courses
 
@@ -14,11 +13,6 @@
 - [ ] [Machine Learning with Graphs](https://snap.stanford.edu/class/cs224w-2021/) + [lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rOP-ImU-O1rYRg2RFxomvFp) (2021, Stanford)
 - [ ] [Deep Generative Systems](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8) (2023, Stanford)
 
-## Papers
-
-- [ ] [A decoder-only foundation model for time-series forecasting](https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/)
-  (_TimesFM_, 2024)
-
 ## Misc
 
-- [ ] [Andrej Karpathy video lectures](https://www.youtube.com/@AndrejKarpathy/videos)
+- [ ] [Andrej Karpathy videos](https://www.youtube.com/@AndrejKarpathy/videos)
