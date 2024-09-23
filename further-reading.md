@@ -56,9 +56,6 @@ Engineering are.
 - [ ] 🔗 [Roaring Bitmaps](https://roaringbitmap.org/about/)
 - [x] 🔗 [CS 007: Personal Finance for Engineers](https://cs007.blog/)
 - [ ] 🔗 [CRDT](https://crdt.tech/) + [Conflict-free Replicated Data Types: An Overview](https://arxiv.org/abs/1806.10254)
-- [ ] 🔗 [Vectorization workshop](https://cvw.cac.cornell.edu/vector/default)
-- [ ] :octocat: [mini-redis](https://github.com/tokio-rs/mini-redis)
-- [ ] :octocat: [mini-lsm](https://github.com/skyzh/mini-lsm)
 
 ### Single videos
 
