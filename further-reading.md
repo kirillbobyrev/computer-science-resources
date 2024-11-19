@@ -57,6 +57,7 @@ Engineering are.
 - [x] 🔗 [CS 007: Personal Finance for Engineers](https://cs007.blog/)
 - [ ] 🔗 [CRDT](https://crdt.tech/) + [Conflict-free Replicated Data Types: An Overview](https://arxiv.org/abs/1806.10254)
 - [ ] 🔗 [Linux Perf](https://brendangregg.com/linuxperf.html)
+- [ ] 🔗 [Distributed Systems Challenge](https://fly.io/dist-sys/)
 
 ### Single videos
 
