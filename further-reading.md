@@ -42,6 +42,7 @@ Engineering are.
   - [ ] [Part 2](https://www.goodreads.com/book/show/60631342-system-design-interview-an-insider-s-guide)
 - [ ] 📖 [Game Programming Patterns](https://gameprogrammingpatterns.com/)
 - [ ] 📖 [Physically Based Rendering](https://www.pbr-book.org/) (2023)
+- [ ] 📖 [Systems Performance: Enterprise and the Cloud](https://www.brendangregg.com/blog/2020-07-15/systems-performance-2nd-edition.html)
 - [ ] 📄 [Literate Programming](http://www.literateprogramming.com/knuthweb.pdf) (Knuth, 1984)
   - [ ] 🔗 [literateprogramming.com](http://www.literateprogramming.com)
 - [ ] 📄 [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/800-7895/800-7895.pdf) (Goldberg, 1991)
