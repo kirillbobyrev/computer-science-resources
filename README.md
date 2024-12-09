@@ -26,7 +26,7 @@ Compilation of Computer Science courses, books, blog posts and videos.
 
 ## Distributed Systems
 
-- [ ] 🎥 [MIT Distributed Systems](https://pdos.csail.mit.edu/6.824/schedule.html) (Spring 2023)
+- [ ] 🎥 [MIT Distributed Systems](http://nil.csail.mit.edu/6.824/2021/schedule.html) (Spring 2021)
 - [ ] 🎥 [Paxos & TLA+ Turing Award lectures](https://lamport.azurewebsites.net/tla/paxos-algorithm.html) (shorter videos with the core concepts, 2020)
 - [ ] 📄 [The Anatomy of a Large-Scale Hypertextual Web Search Engine](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/334.pdf) ("The Google Paper", Brin, Page, 1998)
 - [ ] 📄 [The Google Filesystem](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf) (2003)

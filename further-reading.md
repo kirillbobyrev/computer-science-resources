@@ -13,6 +13,7 @@ Engineering are.
 ### Competitive Programming
 
 - [ ] 📖 [Competitive Programmer's Handbook](https://www.goodreads.com/book/show/34861344-competitive-programmer-s-handbook)
+- [ ] 🔗 [USACO Guide](https://usaco.guide/)
 
 ## Systems Programming (Operating Systems, Low-Level Primitives, Hardware)
 
