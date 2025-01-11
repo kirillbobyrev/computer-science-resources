@@ -28,7 +28,6 @@ Compilation of Computer Science courses, books, blog posts and videos.
 
 - [ ] 🎥 [MIT Distributed Systems](http://nil.csail.mit.edu/6.824/2021/schedule.html) (Spring 2021)
 - [ ] 🎥 [Paxos & TLA+ Turing Award lectures](https://lamport.azurewebsites.net/tla/paxos-algorithm.html) (shorter videos with the core concepts, 2020)
-- [ ] 📄 [The Anatomy of a Large-Scale Hypertextual Web Search Engine](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/334.pdf) ("The Google Paper", Brin, Page, 1998)
 - [ ] 📄 [The Google Filesystem](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf) (2003)
 - [ ] 📄 [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf) (Jeffrey Dean and Sanjay Ghemawat, 2004)
 - [ ] 📄 [The Chubby lock service for loosely-coupled distributed systems](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf) (2006)
@@ -57,14 +56,6 @@ Compilation of Computer Science courses, books, blog posts and videos.
 
 ## Programming Languages
 
-### C++
-
-- [ ] "Effective C++" series by Scott Meyers
-  - [ ] 📖 [Effective C++](https://www.goodreads.com/book/show/105125.Effective_C_)
-  - [ ] 📖 [More Effective C++](https://www.goodreads.com/book/show/105123.More_Effective_C_)
-  - [ ] 📖 [Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14](https://www.goodreads.com/book/show/22800553-effective-modern-c)
-  - [ ] 📖 [Effective STL: 50 Specific Ways to Improve Your Use of the Standard Template Library](https://www.goodreads.com/book/show/105124.Effective_STL)
-
 ### Functional Programming
 
 - [ ] 📖 [Haskell Programming from first principles](https://haskellbook.com) (2018)
@@ -85,8 +76,7 @@ Compilation of Computer Science courses, books, blog posts and videos.
 - [ ] 📖 [Modern Operating Systems](https://www.goodreads.com/book/show/166195.Modern_Operating_Systems) (Tanenbaum, 2001)
 - [ ] 📖 [The UNIX TimeSharing System](https://dsf.berkeley.edu/cs262/unix.pdf)
 - [ ] 📖 [Reverse Engineering for Beginners](https://www.goodreads.com/book/show/25391593-reverse-engineering-for-beginners)
-  - [ ] 🔗 [Book website](https://beginners.re/)
-  - [ ] 🔗 [Challenges](https://challenges.re/)
+  - [Book website](https://beginners.re/)
 - [ ] 📖 [The UNIX Programming Environment](https://www.goodreads.com/book/show/337338.The_UNIX_Programming_Environment) (Kernighan, Rob Pike)
 
 ### Compilers

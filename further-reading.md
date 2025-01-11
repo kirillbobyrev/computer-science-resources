@@ -56,20 +56,12 @@ Engineering are.
 - [ ] 🔗 [Coding for SSDs](https://codecapsule.com/2014/02/12/coding-for-ssds-part-1-introduction-and-table-of-contents/)
 - [ ] 🔗 [Roaring Bitmaps](https://roaringbitmap.org/about/)
 - [x] 🔗 [CS 007: Personal Finance for Engineers](https://cs007.blog/)
-- [ ] 🔗 [CRDT](https://crdt.tech/) + [Conflict-free Replicated Data Types: An Overview](https://arxiv.org/abs/1806.10254)
 - [ ] 🔗 [Linux Perf](https://brendangregg.com/linuxperf.html)
 - [ ] 🔗 [Distributed Systems Challenge](https://fly.io/dist-sys/)
 
 ### Single videos
 
-- [ ] 🎥 [A day in the life of a Netflix engineer](https://www.youtube.com/watch?v=0QS1TWLooo0)
-- [ ] 🎥 [Microservices at Netflix Scale: Principles, Tradeoffs & Lessons Learned](https://www.youtube.com/watch?v=57UK46qfBLY)
 - [ ] 🎥 [Real-Time Delivery Architecture at Twitter](https://www.infoq.com/presentations/Real-Time-Delivery-Twitter/)
-- [ ] 🎥 [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
-- [ ] 🎥 [The Golden Age of Compiler Design in an Era of HW/SW Co-design](https://youtu.be/4HgShra-KnY) (Chris Lattner)
-- [ ] 🎥 [The Soul of a New Machine: Rethinking the Computer](https://youtu.be/vvZA9n3e5pc)
-- [x] 🎥 [Data-Oriented Design and C++](https://youtu.be/rX0ItVEVjHc)
-- [x] 🎥 [Spectre: Secrets, Side-Channels, Sandboxes, and Security](https://youtu.be/_f7O3IfIR2k)
 
 ## Other
 
