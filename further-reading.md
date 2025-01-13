@@ -35,6 +35,7 @@ Engineering are.
 - [ ] 🎥 [CS 253 Web Security](https://youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-) + [readings](https://web.stanford.edu/class/cs253/) (Stanford)
 - [ ] 🎥 [Cryptography](https://www.coursera.org/learn/crypto) and [Cryptography 2](https://www.coursera.org/learn/crypto2) (Stanford, Coursera)
 - [ ] 🎥 [GPU Mode](https://github.com/gpu-mode/lectures)
+  - [ ] [CUDA Puzzles](https://github.com/srush/gpu-puzzles)
 - [ ] 📖 [The Linux Programming Interface](https://www.goodreads.com/en/book/show/7672214)
 - [ ] 📖 [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://arxiv.org/abs/1701.00854)
 - [ ] 📖 [Software Engineering at Google](https://abseil.io/resources/swe-book)
@@ -62,6 +63,7 @@ Engineering are.
 ### Single videos
 
 - [ ] 🎥 [Real-Time Delivery Architecture at Twitter](https://www.infoq.com/presentations/Real-Time-Delivery-Twitter/)
+- [ ] 🎥 [Exciting Directions in Systems for Machine Learning](https://mlsys.org/virtual/2024/invited-talk/2592) (Jeff Dean)
 
 ## Other
 
