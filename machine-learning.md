@@ -18,4 +18,5 @@
 
 ## Misc
 
+- [ ] [wesomeMLSys](https://github.com/gpu-mode/awesomeMLSys)
 - [ ] [Andrej Karpathy videos](https://www.youtube.com/@AndrejKarpathy/videos)
