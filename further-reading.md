@@ -58,6 +58,7 @@ Engineering are.
 - [x] 🔗 [CS 007: Personal Finance for Engineers](https://cs007.blog/)
 - [ ] 🔗 [Linux Perf](https://brendangregg.com/linuxperf.html)
 - [ ] 🔗 [Distributed Systems Challenge](https://fly.io/dist-sys/)
+- [ ] [tiny-gpu](https://github.com/adam-maj/tiny-gpu)
 
 ### Single videos
 
