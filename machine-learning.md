@@ -8,6 +8,8 @@
   - [ ] [Advanced Topics](https://probml.github.io/pml-book/book2.html)
 - [x] [Introduction to Probability for Data Science](https://probability4datascience.com/)
 - [ ] [Statistical Rethinking](https://xcelab.net/rm/) + lectures and code
+- [ ] [Learning Theory from First Principles](https://www.di.ens.fr/~fbach/ltfp_book.pdf) (2024)
+- [ ] [Multi-Agent Reinforcement Learning](https://www.marl-book.com/) (2024)
 
 ## 🎥 Courses
 
