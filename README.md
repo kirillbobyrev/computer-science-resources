@@ -77,13 +77,6 @@ Compilation of Computer Science courses, books, blog posts and videos.
 - [ ] 📖 [The UNIX TimeSharing System](https://dsf.berkeley.edu/cs262/unix.pdf)
 - [ ] 📖 [Reverse Engineering for Beginners](https://www.goodreads.com/book/show/25391593-reverse-engineering-for-beginners)
   - [Book website](https://beginners.re/)
-- [ ] 📖 [The UNIX Programming Environment](https://www.goodreads.com/book/show/337338.The_UNIX_Programming_Environment) (Kernighan, Rob Pike)
-
-### Compilers
-
-- [ ] 📖 [Crafting Interpreters](https://www.goodreads.com/book/show/58661468-crafting-interpreters) (2021)
-- [ ] 📖 [Compilers: Principles, Techniques, and Tools](https://www.goodreads.com/book/show/703102.Compilers) (_"The Dragon Book"_, Aho, Sethi, Ullman, 1986)
-- [ ] 📖 [Structure and Interpretation of Computer Programs](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs) (_"SICP"_, 1996)
 
 ### Networking
 
