@@ -48,17 +48,10 @@ Compilation of Computer Science courses, books, blog posts and videos.
   - [ ] [Intro to Database Systems](https://15445.courses.cs.cmu.edu/fall2024/), (Andy Pavlo, 2024, lectures + assignments)
   - [ ] [Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2023/) (Andy Pavlo, 2023, lectures + assignments)
 - [ ] 📖 [Designing Data Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) (2015)
-- [ ] 📄 [A Case for Redundant Arrays of Inexpensive Disks (RAID)](http://web.mit.edu/6.033/2015/wwwdocs/papers/Patterson88.pdf) (Patterson, 1988)
-- [ ] 📄 [Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf) (_"The Bigtable Paper"_, 2006)
 - [ ] 📄 [Spanner: Google's Globally-Distributed Database](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/39966.pdf) (_"The Spanner Paper"_, 2012)
 - [ ] 📄 [F1: A Distributed SQL Database That Scales](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41344.pdf) (_"The F1 paper"_, 2013)
-- [ ] 📄 [Dynamo: Amazon's Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf) (2007)
 
 ## Programming Languages
-
-### Functional Programming
-
-- [ ] 📖 [Haskell Programming from first principles](https://haskellbook.com) (2018)
 
 ### Rust
 
@@ -74,9 +67,6 @@ Compilation of Computer Science courses, books, blog posts and videos.
 - [ ] 🎥 [MIT's Operating System Engineering](https://pdos.csail.mit.edu/6.S081/2022/schedule.html)
 - [ ] 📖 [Computer Architecture: A Quantitative Approach](https://www.goodreads.com/book/show/70135.Computer_Architecture)
 - [ ] 📖 [Modern Operating Systems](https://www.goodreads.com/book/show/166195.Modern_Operating_Systems) (Tanenbaum, 2001)
-- [ ] 📖 [The UNIX TimeSharing System](https://dsf.berkeley.edu/cs262/unix.pdf)
-- [ ] 📖 [Reverse Engineering for Beginners](https://www.goodreads.com/book/show/25391593-reverse-engineering-for-beginners)
-  - [Book website](https://beginners.re/)
 
 ### Networking
 
@@ -86,12 +76,9 @@ Compilation of Computer Science courses, books, blog posts and videos.
 
 ## Miscellaneous
 
-- [ ] 🎥 [Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/) (MIT, 2018)
 - [ ] 🎥 [Computer Systems Security](https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/) (MIT, 2014)
 - [ ] 🎥 [Introduction to Computer Graphics](https://youtube.com/playlist?list=PLQ3UicqQtfNuBjzJ-KEWmG1yjiRMXYKhh) (MIT, 2020) (+ [assignments](https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012/pages/assignments/))
 - [ ] 🎥 [Machine Vision](https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/) (MIT, 2020)
-- [ ] 🎥 [Computer Systems Security](https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/) (MIT, 2014)
 - [ ] 📖 [Concrete Mathematics: A Foundation for Computer Science](https://www.goodreads.com/book/show/112243.Concrete_Mathematics) (Graham, Knuth, Patashnik, 1994)
-- [ ] 📖 [Domain-Driven Design](https://www.goodreads.com/book/show/179133.Domain_Driven_Design) (2003)
 - [ ] 📖 [Test-Driven Development](https://www.goodreads.com/book/show/387190.Test_Driven_Development) (2002)
 - [x] 📖 [The Pragmatic Programmer](https://www.goodreads.com/en/book/show/4099.The_Pragmatic_Programmer) (2019)

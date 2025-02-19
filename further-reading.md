@@ -26,10 +26,9 @@ Engineering are.
 
 - [x] 🎥 [Blockchain and Money](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/) (MIT, 2018)
   - [x] 📄 [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) (Satoshi Nakomoto, 2008)
-- [ ] 🎥 [CS 253 Web Security](https://youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-) + [readings](https://web.stanford.edu/class/cs253/) (Stanford)
 - [ ] 🎥 [GPU Mode](https://github.com/gpu-mode/lectures)
   - [ ] [CUDA Puzzles](https://github.com/srush/gpu-puzzles)
-- [ ] 📖 [The Linux Programming Interface](https://www.goodreads.com/en/book/show/7672214)
+  - [ ] [PMPP](https://www.amazon.com/Programming-Massively-Parallel-Processors-Hands-dp-0323912311/dp/0323912311)
 - [ ] 📖 [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://arxiv.org/abs/1701.00854)
 - [ ] 📖 [Software Engineering at Google](https://abseil.io/resources/swe-book)
 - [ ] 📖 System Design by Alex Xu
@@ -40,10 +39,6 @@ Engineering are.
 - [ ] 📄 [Literate Programming](http://www.literateprogramming.com/knuthweb.pdf) (Knuth, 1984)
   - [ ] 🔗 [literateprogramming.com](http://www.literateprogramming.com)
 - [ ] 📄 [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/800-7895/800-7895.pdf) (Goldberg, 1991)
-- [ ] 📄 [Evolution of Development Priorities in Key-value Stores Serving Large-scale Applications: The RocksDB Experience](https://www.usenix.org/conference/fast21/presentation/dong)
-- [ ] 📄 [Are You Sure You Want to Use MMAP in Your Database Management System?](https://db.cs.cmu.edu/mmap-cidr2022/) (CMU, 2022)
-- [ ] 📄 [SQLite: Past, Present and Future](https://www.vldb.org/pvldb/vol15/p3535-gaffney.pdf)
-- [ ] 📄 [Tor: The Second-Generation Onion Router](https://svn-archive.torproject.org/svn/projects/design-paper/tor-design.pdf)
 - [ ] 🔗 [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) (2013)
 - [ ] 🔗 [The Absolute Minimum Every Software Developer Must Know About Unicode in 2023 (Still No Excuses!)](https://tonsky.me/blog/unicode/) (2023)
 - [ ] 🔗 [Coding for SSDs](https://codecapsule.com/2014/02/12/coding-for-ssds-part-1-introduction-and-table-of-contents/)
