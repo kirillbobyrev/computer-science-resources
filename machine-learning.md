@@ -8,6 +8,9 @@
   - [ ] [Advanced Topics](https://probml.github.io/pml-book/book2.html)
 - [x] [Introduction to Probability for Data Science](https://probability4datascience.com/)
 - [ ] [Statistical Rethinking](https://xcelab.net/rm/) + lectures and code
+- [ ] [Jax scaling book](https://jax-ml.github.io/scaling-book/)
+- [ ] [The Ultrascale Playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook)
+- [ ] [RLHF book](https://rlhfbook.com/)
 - [ ] [Learning Theory from First Principles](https://www.di.ens.fr/~fbach/ltfp_book.pdf) (2024)
 - [ ] [Multi-Agent Reinforcement Learning](https://www.marl-book.com/) (2024)
 
@@ -24,4 +27,3 @@
 
 - [ ] [awesomeMLSys](https://github.com/gpu-mode/awesomeMLSys)
 - [ ] [Andrej Karpathy videos](https://www.youtube.com/@AndrejKarpathy/videos)
-- [ ] [Jax scaling book](https://jax-ml.github.io/scaling-book/)
