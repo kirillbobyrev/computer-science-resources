@@ -25,5 +25,9 @@
 
 ## Misc
 
+- [ ] 🎥 [GPU Mode](https://github.com/gpu-mode/lectures)
+  - [ ] [CUDA Puzzles](https://github.com/srush/gpu-puzzles)
+  - [ ] [PMPP](https://www.amazon.com/Programming-Massively-Parallel-Processors-Hands-dp-0323912311/dp/0323912311)
+  - [ ] [LeetGPU](https://leetgpu.com/challenges)
 - [ ] [awesomeMLSys](https://github.com/gpu-mode/awesomeMLSys)
 - [ ] [Andrej Karpathy videos](https://www.youtube.com/@AndrejKarpathy/videos)

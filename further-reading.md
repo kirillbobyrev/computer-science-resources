@@ -26,9 +26,6 @@ Engineering are.
 
 - [x] 🎥 [Blockchain and Money](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/) (MIT, 2018)
   - [x] 📄 [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) (Satoshi Nakomoto, 2008)
-- [ ] 🎥 [GPU Mode](https://github.com/gpu-mode/lectures)
-  - [ ] [CUDA Puzzles](https://github.com/srush/gpu-puzzles)
-  - [ ] [PMPP](https://www.amazon.com/Programming-Massively-Parallel-Processors-Hands-dp-0323912311/dp/0323912311)
 - [ ] 📖 [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://arxiv.org/abs/1701.00854)
 - [ ] 📖 [Software Engineering at Google](https://abseil.io/resources/swe-book)
 - [ ] 📖 System Design by Alex Xu
