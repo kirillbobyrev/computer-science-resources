@@ -17,7 +17,9 @@
 ## 🎥 Courses
 
 - [x] [Deep Learning Specialization](https://www.deeplearning.ai/courses/deep-learning-specialization/) (Coursera, DeepLearning.ai)
-- [ ] [Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu/)
+- Diffusion
+  - [ ] [A Practical Introduction to Diffusion Models](https://www.practical-diffusion.org/)
+  - [ ] [Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu/)
 - [ ] [Advanced NLP](https://cmu-l3.github.io/anlp-spring2025/) (CMU, 2025)
 - [ ] [TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2023-fall-65940) (2024, MIT)
 - [ ] [Transformers United](https://web.stanford.edu/class/cs25/) (2024, Stanford)
