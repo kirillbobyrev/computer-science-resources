@@ -17,7 +17,7 @@
 ## 🎥 Courses
 
 - [x] [Deep Learning Specialization](https://www.deeplearning.ai/courses/deep-learning-specialization/) (Coursera, DeepLearning.ai)
-- Diffusion
+- [ ] MIT IAP Diffusion courses
   - [ ] [A Practical Introduction to Diffusion Models](https://www.practical-diffusion.org/)
   - [ ] [Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu/)
 - [ ] [Advanced NLP](https://cmu-l3.github.io/anlp-spring2025/) (CMU, 2025)
