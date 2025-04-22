@@ -26,6 +26,7 @@
 - [ ] [Transformers United](https://web.stanford.edu/class/cs25/) (2024, Stanford)
 - [ ] [Deep Generative Systems](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8) (2023, Stanford)
 - [ ] [Machine Learning with Graphs](https://snap.stanford.edu/class/cs224w-2021/) + [lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rOP-ImU-O1rYRg2RFxomvFp) (2021, Stanford)
+- [ ] [Foundation Models & Generative AI](https://www.futureofai.mit.edu/) (2024, MIT)
 
 ## Misc
 
